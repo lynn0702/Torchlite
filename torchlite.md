@@ -2873,7 +2873,7 @@ Many of these templates first appeared in the Manual of Monsters, Minions, and M
 
 ***Resistant:*** When a roll would inflict stress or a complication on you from nonmagical weapons, step down that roll’s effect die against you. You can also spend a Ⓟ to ignore the stress or complication entirely.  
 
-***Magic Resistance:*** When you roll to avoid complications or non-Damaged from magic, step down that roll’s effect die against you. You can also spend a Ⓟ to ignore the stress or complication entirely.  
+***Magic Resistance:*** When you roll to avoid complications or non-Damaged stress from magic, step down that roll’s effect die against you. You can also spend a Ⓟ to ignore the stress or complication entirely.  
 
 ***Erudite Researcher (Gear):*** When you spend an hour or more with good sources (a library, a meticulous ledger, accurate maps, informed and cooperative experts, etc.) add d6 and step up your effect die on rolls to create research-based assets.  
 
@@ -4156,12 +4156,13 @@ Anton Kraad ruled these lands centuries ago as a benevolent sorcerer-king. When 
 ▶ Thalos Kraad, the last of the Kraad line, made his final stand here, in the now-destroyed keep. Knowing the end was near, Thalos dug a secret tunnel to the necropolis a short distance away and escaped, casting a vengeful spell that animated the buried warriors and filled them with a hateful need to destroy the living.  
 ▶ Warriors were raised as skeletons and zombies; clerics of the Kraad death cult became robed ghasts; but a special role awaited the members of the Kraad dynasty: they would be raised as vampires to lead the undead army. Anton has been raised as such; presently he is merely vampire spawn, but once he drinks mortal blood, his humanity will boil away and he will become a vampire bound to the same infernal curse.  
 ▶ “Murmurant had the last laugh in the end,” he cries with his final breath. “She broods beneath us, she has turned Thalos’ curse to her own ends…”  
+
 If the players were dragged here and wonder why they weren’t just killed, Anton explains:  
 
 ▶ The party is bearing a Kraad artifact—he can sense it, just as the undead can, and he points it out (and maybe takes a hungry swipe)—inside the missive intended for the Castellan.  
 Once Anton is dealt with, the players might search through the Kraad artifacts piled up in the sepulcher. Among them is the journal of Thalos Kraad himself, detailing his rule, his experiments, and his final lingering curse. He also outlined his plans to escape to a distant shore and become a lich.  
 
-Players searching for riches or useful gear may roll for a test-created asset at difficulty d10 d10 to find something that isn’t cursed by its original Kraad owner. On any failure, they gain the complication Devious Curse.  
+Players searching for riches or useful gear may roll for a test-created asset at difficulty d10 d10 to find something that isn’t cursed by its original Kraad owner. On any failure, they gain the complication **Devious Curse**.  
 
 Now the players know that the undead are being directed by Murmurant, deeper in the labyrinth. If the player characters were brought into this scene directly from The Hamlet of Elemental Weevils, proceed to the Temple of Borers scene to find the dragon’s lair. Otherwise, proceed directly to The Dead Hand of Gloom.  
   
@@ -4621,7 +4622,7 @@ If this process sounds cumbersome, you can always start fresh. You can recreate 
   
 #### Tales of Xadia  
   
-Set in the world of Netflix’s Dragon Prince, Tales of Xadia (ToX) offers an excellent take on modern fantasy gaming. The game focuses on plucky protagonists confronting large-scale themes through small-scale situations. And don’t let the source material being a kid’s show fool you: it’s perfectly capable of supporting serious, dramatic, and adult play, as well.  
+Set in the world of Netflix’s *The Dragon Prince*, *Tales of Xadia* (ToX) offers an excellent take on modern fantasy gaming. The game focuses on plucky protagonists confronting large-scale themes through small-scale situations. And don’t let the source material being a kid’s show fool you: it’s perfectly capable of supporting serious, dramatic, and adult play, as well.  
 
 ToX leaves behind roles in place of values with statements. This shifts the game’s focus from what the characters are doing to why they are doing it. Characters will question their values, pushing themselves to find what they truly stand for. Woven in with values are goals which earn you growth dice replacing milestones and XP.  
 
