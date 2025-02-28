@@ -1330,7 +1330,7 @@ Wielding skill and spell to support allies and befuddle foes, the bard inspires 
 
 ***Jack of All Trades:*** When your roll to create an asset doesn’t include a specialty, step up a d6 in your pool.  
 
-***Military Historian:*** Give the current battle a name (The Battle of Two Corridors, Ambush at the Iron Ford, etc.), then spend a Ⓟ to create a d8 asset containing that name.  
+***Military Historian:*** Give the current battle a name ("The Battle of Two Corridors", "Ambush at the Iron Ford", etc.), then spend a Ⓟ to create a d8 asset containing that name.  
 
 ***Nurture Will:*** Spend a Ⓟ or take **Exhausted** d6 to create a d8 asset for yourself or an ally related to strength of will, morale, or resistance to mental influence.  
 
@@ -2147,7 +2147,14 @@ These distinctions capture a wide range of archetypal character types seen in ma
 Whether by choice or by fate’s machinations, some characters align with cosmic forces of Law or Chaos, or with the balancing powers in-between. This alignment is not a moral code or ethical ideal; rather, it is a metaphysical orientation, a manifestation of impersonal cosmological influences. In some cases, a character’s conduct and outlook on the world may reflect these influences. You may decide your character has an alignment in the universe’s greater struggle between anarchic entropy and harmonious order. While their persona doesn’t need to correspond with this alignment, if you want it to have an effect, you can consult the table below.  
 
 This table also identifies how mainstream society is likely to categorize a character on a scale of perceived morality. Since mortal ideals often judge people by how much they prioritize either benefiting others (behavior many would label as “good”) or benefiting oneself (more often associated with “evil”), the table lists how folk tend to view the personalities along that spectrum, including which ones are just somewhere in the middle (more “neutral”).  
-  
+
+|               |  Aligned with… |                |               |
+|:-------------:|:--------------:|:--------------:|:-------------:|
+| **Perceived as…** | Chaotic Forces | Neutral Forces | Lawful Forces |
+|     “Good”    |     Valiant    |    Wholesome   |    Comrade    |
+|   “Neutral”   |  Loose Cannon  |     Cipher     |    Devotee    |
+|     “Evil”    |    Disruptor   |    Mercenary   |    Schemer    |
+
 ### Limits  
   
 Choose two of the Limits listed here for your character, based on your distinctions. Your profession lists a few suggested Limits for characters with that distinction, but you can choose any two you wish.  
@@ -3902,6 +3909,7 @@ These are the five scenes you will prepare ahead of time:
 ▶ The Catch  
 ▶ The Boss  
 ▶ The Loot  
+
 Collectively, the five prepared scenes vary the spotlight between the player characters and provide the outline of an adventurous tale. Actual play through will include additional scenes as you transition and respond to player interest and side treks. Laid out here are the elements you can prepare for.  
 
 There is an example Five Scene Adventure: [Murmurs in the Mire](#murmurs-in-the-mire).  
@@ -4313,18 +4321,18 @@ Second, you define your own new element. The type of element you define is deter
   
 ##### Element Types List  
   
-▶ An Age that is not the current Age  
-▶ A culture (human or otherwise)  
-▶ An event that created great hope or fear  
-▶ An important object  
-▶ An influential organization or faction  
-▶ A leader who changed history  
-▶ A legendary dynasty or lineage  
-▶ A motivating belief system or ideal  
-▶ A noteworthy creature  
-▶ A precious resource  
-▶ A significant settlement  
-▶ A unique landmark (or series of them)  
+1. An Age that is not the current Age  
+2. A culture (human or otherwise)  
+3. An event that created great hope or fear  
+4. An important object  
+5. An influential organization or faction  
+6. A leader who changed history  
+7. A legendary dynasty or lineage  
+8. A motivating belief system or ideal  
+9. A noteworthy creature  
+10. A precious resource  
+11. A significant settlement  
+12. A unique landmark (or series of them)  
   
 New elements can redefine previous ones, but not in ways that erase them. For example, one player might define a culture as an empire which conquers and unites the world, and another player might define a later event wherein that empire has since broken up into several smaller states. The rule is, an element remains part of the setting’s story, even if it is no longer intact in the current era. Keep taking turns until all of the following are true:  
 
@@ -4702,8 +4710,8 @@ You could call the d6 the law-abiding die and the d8 the evil die, but that’s 
 |4 |Loose Cannon |Loose Cannon |Cipher |Cipher |Devotee |Devotee|  
 |5 |Loose Cannon |Loose Cannon |Cipher |Cipher |Devotee| Devotee|  
 |6 |Loose Cannon |Loose Cannon |Cipher |Cipher |Devotee |Devotee|  
-|7 |Disruptor |Mercenary |Mercenary |Mercenary |Mercenary |Schemer|  
-|8 |Disruptor |Disruptor |Mercenary |Mercenary |Schemer |Schemer|  
+|7 |Disruptor |Mercenary |Mercenary |Schemer |Schemer |Schemer|  
+|8 |Disruptor |Disruptor |Mercenary |Schemer |Schemer |Schemer|  
   
 ### About the Designers  
   
