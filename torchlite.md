@@ -4017,7 +4017,7 @@ Read or paraphrase the following to the players, or establish these facts during
   
 Read or paraphrase the following:  
 
-You can see trails of smoke—black and sooty, not clean and white—as you approach the town of Mirewatch. When the town’s wooden palisade comes into view, you can see that it is breached in a handful of places. Once through the gates, the extent of the carnage becomes clear. Scattered clumps of shattered wood and roof thatching are scattered across the main road. Livestock and a few unfortunate mortals lie dead in mud. A few armored skeletons, battered and smashed, lie beside them. The struts of the palisade and many of the buildings seem to be infested with cat-sized parasites, chewing things apart. Trails of smoke rise into the sky from still-smoldering fires. Mirewatch was attacked by the undead last night, and the town is struggling to recover. What do you do?  
+*You can see trails of smoke—black and sooty, not clean and white—as you approach the town of Mirewatch. When the town’s wooden palisade comes into view, you can see that it is breached in a handful of places. Once through the gates, the extent of the carnage becomes clear. Scattered clumps of shattered wood and roof thatching are scattered across the main road. Livestock and a few unfortunate mortals lie dead in mud. A few armored skeletons, battered and smashed, lie beside them. The struts of the palisade and many of the buildings seem to be infested with cat-sized parasites, chewing things apart. Trails of smoke rise into the sky from still-smoldering fires. Mirewatch was attacked by the undead last night, and the town is struggling to recover. What do you do?*  
 
 Nobody in town is keen on answering questions right now; they’re all intent on putting out fires, finding lost children, and patching up both walls and neighbours. Our heroes can help townsfolk recover, heal, or shore up defenses. Treat each of these as a test with a difficulty of d8 d8.  
 
@@ -4040,7 +4040,7 @@ If the PCs remain in town, the undead will raid again the next night, attacking 
   
 Read or paraphrase the following:  
 
-Fort Heeding was once a much larger fortification, but today only one of its wings and its watchtower are standing properly, recently renovated. The rest are tumbled ruins, overgrown with swamp grass. The entrance to the tunnels is easy to find: a river of shambling tracks lead back to a gaping hole in the inner curtain wall. Within you find a labyrinth of twisting tunnels and the distant sounds of digging echoing up from the depths. What do you do?  
+*Fort Heeding was once a much larger fortification, but today only one of its wings and its watchtower are standing properly, recently renovated. The rest are tumbled ruins, overgrown with swamp grass. The entrance to the tunnels is easy to find: a river of shambling tracks lead back to a gaping hole in the inner curtain wall. Within you find a labyrinth of twisting tunnels and the distant sounds of digging echoing up from the depths. What do you do?*  
 
 Players may want to prepare for spelunking by fashioning torches or scavenging the watchtower for ropes or mapping supplies. Treat each of these attempts as a difficulty d6 d6 test to create an asset.  
 
@@ -4105,11 +4105,11 @@ Read or paraphrase the following, and then one of the subsequent boxes:
 
 If the player characters gained entry here on their own power, read or paraphrase this:  
 
-In the corner curls a gaunt figure, clad in tattered vestments that must have once been regal, before the rot got to them. As you approach, he cringes back against the stones, as if he could push his way though them to escape. “Don’t come any closer,” he rasps, then shakes his head. “No. Wait. Do come closer. Be quick. Help me. Please. You’ve got to kill me!”  
+*In the corner curls a gaunt figure, clad in tattered vestments that must have once been regal, before the rot got to them. As you approach, he cringes back against the stones, as if he could push his way though them to escape. “Don’t come any closer,” he rasps, then shakes his head. “No. Wait. Do come closer. Be quick. Help me. Please. You’ve got to kill me!”*  
 
 If the player characters were dragged here, direct them to step down all their stresses and then read or paraphrase this:  
 
-You take all this in blearily as you come to. Clammy hands pat your cheek gently. “There now,” says a voice. “All fixed up. Or at least, fixed up enough to do what’s necessary.” A gaunt, pale face floats into your vision, attached to a body in tattered vestments that must have once been regal. “Now,” your rescuer says, “Please kill me.”  
+*You take all this in blearily as you come to. Clammy hands pat your cheek gently. “There now,” says a voice. “All fixed up. Or at least, fixed up enough to do what’s necessary.” A gaunt, pale face floats into your vision, attached to a body in tattered vestments that must have once been regal. “Now,” your rescuer says, “Please kill me.”*  
 
 The figure is Anton Kraad the First; he reeks of grave rot, wears a decayed tabard bearing the sword-impaled dragon crest, and has recently been reanimated as vampire spawn. Struggling with his overwhelming thirst for blood, he alternates between begging for the player characters to put him out of his misery before his humanity drains away… and lashing out to disable and feast upon their hot blood.  
 
@@ -4159,6 +4159,7 @@ Anton Kraad ruled these lands centuries ago as a benevolent sorcerer-king. When 
 If the players were dragged here and wonder why they weren’t just killed, Anton explains:  
 
 ▶ The party is bearing a Kraad artifact—he can sense it, just as the undead can, and he points it out (and maybe takes a hungry swipe)—inside the missive intended for the Castellan.  
+
 Once Anton is dealt with, the players might search through the Kraad artifacts piled up in the sepulcher. Among them is the journal of Thalos Kraad himself, detailing his rule, his experiments, and his final lingering curse. He also outlined his plans to escape to a distant shore and become a lich.  
 
 Players searching for riches or useful gear may roll for a test-created asset at difficulty d10 d10 to find something that isn’t cursed by its original Kraad owner. On any failure, they gain the complication **Devious Curse**.  
