@@ -102,13 +102,13 @@ Each trait is rated with one of five die sizes, each represented in this text wi
   
 Traits are organized into trait sets.  
 
-Examples of trait sets used in *TorchLite* are attributes (**Agility**, **Alertness**, **Brains**, **Brawn**, **Charisma**, and **Composure**), roles (**Scholar**, **Scoundrel** , **Scout**, **Soldier**, and **Speaker**), and signature assets (items or other factors that provide an advantage, such as Hidden Knife or Magnifying Glass). One example trait set for a character might be the attributes **Agility** d6, **Alertness** d6, **Brains** d6, **Brawn** d10, **Charisma** d8, and **Composure** d8.  
+Examples of trait sets used in *TorchLite* are attributes (**Agility**, **Alertness**, **Brains**, **Brawn**, **Charisma**, and **Composure**), roles (**Scholar**, **Scoundrel**, **Scout**, **Soldier**, and **Speaker**), and signature assets (items or other factors that provide an advantage, such as **Hidden Knife** or **Magnifying Glass**). One example trait set for a character might be the attributes **Agility** d6, **Alertness** d6, **Brains** d6, **Brawn** d10, **Charisma** d8, and **Composure** d8.  
 
 When you want your character to do something, if there’s nothing getting in your way, you just do it. If there is opposition (such as an opponent, a difficult environment, or a time limit), you roll the dice for certain traits to figure out if you succeed or fail.  
   
 ##### Your Dice Pool  
   
-When you roll, you pick the most relevant trait from each set and roll the die for each of those traits, all together in one pool of dice. (An example dice pool might be **Brawn** d10, Cunning Rebel d8, **Scoundrel** d8 and Hidden Knife d6)  
+When you roll, you pick the most relevant trait from each set and roll the die for each of those traits, all together in one pool of dice. (An example dice pool might be **Brawn** d10, **Cunning Rebel** d8, **Scoundrel** d8 and **Hidden Knife** d6)  
   
 ##### Your Total  
   
@@ -290,7 +290,7 @@ When you fail a test, you take d6 stress. The opposition chooses the type of str
 
 ##### Stress vs. Complications  
 
-When something happens that makes things harder for a character, but it isn’t covered by one of the stress types, represent it with a free-form complication instead, such as Grappled, Prone, Enraged, Nauseous, Deafened, Tangled in a Giant Spider-Web, Turning Into a Frog, etc.  
+When something happens that makes things harder for a character, but it isn’t covered by one of the stress types, represent it with a free-form complication instead, such as **Grappled**, **Prone**, **Enraged**, **Nauseous**, **Deafened**, **Tangled in a Giant Spider-Web**, **Turning Into a Frog**, etc.  
   
 #### Assets  
   
@@ -316,7 +316,8 @@ On a success, you either:
 
 ▶ shut down the asset if your effect die is larger than the asset  
 ▶ or step down the asset if your effect die is equal or lower  
-When you step down an asset in this way or make it unavailable, it remains so until the end of the scene. Any player may do this by inflicting a complication larger than the asset’s rating. You can do it all in one go, or by starting a low-level complication like Loosened Grip and stepping it up with later rolls. When you step down an asset in this way or make it unavailable, it remains stepped down or shut down until the end of the scene. If the asset would’ve gone away at the end of the scene, that happens normally.  
+
+When you step down an asset in this way or make it unavailable, it remains so until the end of the scene. Any player may do this by inflicting a complication larger than the asset’s rating. You can do it all in one go, or by starting a low-level complication like **Loosened Grip** and stepping it up with later rolls. When you step down an asset in this way or make it unavailable, it remains stepped down or shut down until the end of the scene. If the asset would’ve gone away at the end of the scene, that happens normally.  
   
 #### Recovery  
   
@@ -498,13 +499,13 @@ Choosing your Distinctions
 
 Start making a character by picking three distinctions, one from each of the option categories listed below. Each of these options is described in detail in its own section, under [Peoples](#peoples), [Professions](#professions), or [Personas](#personas).  
 
-For your people distinction, choose one of: Cambion, Dwarf, Elf, Goblin, Gnome, Halfling, Human, Ogre, or Wyrmkin.  
+For your people distinction, choose one of: **Cambion**, **Dwarf**, **Elf**, **Goblin**, **Gnome**, **Halfling**, **Human**, **Ogre**, or **Wyrmkin**.  
 
-For your profession distinction, choose one of: Bard, Cleric, Fighter, Hexknight, Mage, Mystic, Paladin, Ranger, or Rogue.  
+For your profession distinction, choose one of: **Bard**, **Cleric**, **Fighter**, **Hexknight**, **Mage**, **Mystic**, **Paladin**, **Ranger**, or **Rogue**.  
 
-For your persona distinction, choose one of: Cipher, Comrade, Devotee, Disruptor, Loose Cannon, Mercenary, Schemer, Valiant, or Wholesome.  
+For your persona distinction, choose one of: **Cipher**, **Comrade**, **Devotee**, **Disruptor**, **Loose Cannon**, **Mercenary**, **Schemer**, **Valiant**, or **Wholesome**.  
 
-You can either use the distinction name given here or some other version of that name as your distinction. In the full descriptions, each people lists three or more subgroups that you can also use (so your Elf character could instead be a Wood Elf, High Elf, or Deep Elf). Similarly, each profession lists a number of subclasses, specialized vocations you might identify with. If you want, you can also add a noun or descriptor to any distinction (as described in the distinctions section of *Cortex Lite*). This means your distinctions could be just as simple as Cambion, Bard, and Cipher, or you could end up with a more detailed list of three distinctions like Wood Elf, Illusionist Wizard, and Schemer, or Dwarven Grandparent, Paladin of the Silver Order, and Loyal Companion.  
+You can either use the distinction name given here or some other version of that name as your distinction. In the full descriptions, each people lists three or more subgroups that you can also use (so your **Elf** character could instead be a **Wood Elf**, **High Elf**, or **Deep Elf**). Similarly, each profession lists a number of subclasses, specialized vocations you might identify with. If you want, you can also add a noun or descriptor to any distinction (as described in the distinctions section of *Cortex Lite*). This means your distinctions could be just as simple as **Cambion**, **Bard**, and **Cipher**, or you could end up with a more detailed list of three distinctions like **Wood Elf**, **Illusionist Wizard**, and **Schemer**, or **Dwarven Grandparent**, **Paladin of the Silver Order**, and **Loyal Companion**.  
 
 Each of your distinctions is rated d8.  
   
@@ -526,9 +527,9 @@ When you need to accomplish something, your six attributes—**Agility**, **Aler
 
 ##### Assigning your Attributes  
 
-You may use the ‘quick attributes’ listed under your character’s people, or you may assign them yourself. If you choose the latter, assign the following to ratings to your attributes, in any order you like: d10, d8 , d8 , d6 , d6, d6. If you wish, once your ratings are assigned you can choose to do either (or both) of the following:  
+You may use the ‘quick attributes’ listed under your character’s people, or you may assign them yourself. If you choose the latter, assign the following to ratings to your attributes, in any order you like: d10, d8, d8, d6, d6, d6. If you wish, once your ratings are assigned you can choose to do either (or both) of the following:  
 
-You may upgrade one d6 attribute to d8 , but if you do so, you must also downgrade one d10 attribute to d8 .  
+You may upgrade one d6 attribute to d8, but if you do so, you must also downgrade one d10 attribute to d8 .  
 
 You may upgrade one d8 attribute to d10, but if you do so, you must also downgrade one d6 attribute to d4.  
   
@@ -568,45 +569,45 @@ You can choose to start a new character with either two or three specialty trait
   
 Specialty Examples  
 
-* Acrobatics  
-* Agriculture  
-* Alchemy  
-* Arcana  
-* Archery  
-* Athletics  
-* Blacksmith  
-* Bludgeons  
-* Cooking  
-* Deceit  
-* Devices  
-* Diplomacy  
-* Divination  
-* Drumming  
-* Dual-Wielding  
-* Equestrian  
-* Escape Artist  
-* Fire Magic  
-* Handling Animals  
-* Heraldry  
-* History  
-* Investigation  
-* Jousting  
-* Lasso  
-* Leatherworking  
-* Lockpicks  
-* Martial Arts  
-* Necromancy  
-* Persuasion  
-* Polearms  
-* Politics  
-* Religion  
-* Sailing  
-* Secret Doors  
-* Sleight of Hand  
-* Stealth  
-* Threats  
-* Tracking  
-* Wilderness Survival  
+* **Acrobatics**  
+* **Agriculture**  
+* **Alchemy**  
+* **Arcana**  
+* **Archery**  
+* **Athletics**  
+* **Blacksmith**  
+* **Bludgeons**  
+* **Cooking**  
+* **Deceit**  
+* **Devices**  
+* **Diplomacy**  
+* **Divination**  
+* **Drumming**  
+* **Dual-Wielding**  
+* **Equestrian**  
+* **Escape Artist**  
+* **Fire Magic**  
+* **Handling Animals**  
+* **Heraldry**  
+* **History**  
+* **Investigation**  
+* **Jousting**  
+* **Lasso**  
+* **Leatherworking**  
+* **Lockpicks**  
+* **Martial Arts ** 
+* **Necromancy**  
+* **Persuasion**  
+* **Polearms**  
+* **Politics**  
+* **Religion**  
+* **Sailing**  
+* **Secret Doors**  
+* **Sleight of Hand**  
+* **Stealth**  
+* **Threats**  
+* **Tracking**  
+* **Wilderness Survival**  
   
 #### Signature Assets  
   
@@ -704,7 +705,7 @@ Each character has a handful of SFX, reflecting special capabilities associated 
 
 Whenever you gain an SFX or Limit, you can rename it to better suit your character. In *TorchLite*, your SFX are attached to your distinctions (instead of being attached to roles as they are in *Cortex Lite*).  
 
-Complications named in SFX (such as Enraged or Indulged) are mere suggestions and can always be swapped for something more creative or appropriate to the moment.  
+Complications named in SFX (such as **Enraged** or **Indulged**) are mere suggestions and can always be swapped for something more creative or appropriate to the moment.  
 
 Some SFX are tagged as (Gear). These generally require you to have the equipment described in the SFX in order to use some or all of the options that SFX offers.  
   
@@ -758,9 +759,9 @@ Characters belonging to either group can add the appropriate SFX below to the li
   
 Strange and uncanny, cambions are born into the mortal world, but with an otherworldly lineage. They are always marked; however, while many cambion are horned and possess pointed ears and eyes of inky black, these features are not universal to all. Tails, wings, fangs, hooves, barely discernible haloes, flickering shadows, or faint scents of brimstone or petrichor are other signs of such ancestry. Their skin tones can be any color you can imagine, depending on their ancestry.  
 
-Cambions are rare, and often seen by small-minded folk as exotic at best or dangerously weird at worst. Most come from communities of non-cambion peoples, but more than a few grow up in places where cambions have gathered in settlements of their own. The most frequently encountered cambions (labeled as fiendtouched or nephilim) have ancestry tied to demons, devils, or the like. Others descend from creatures of the fey realm (sometimes called feyblooded), from elemental beings (known as flamesouls, stormsouls, icesouls, acidsouls, and venomsouls), or even from divine beings like angels or demigods (called lightborn).  
+Cambions are rare, and often seen by small-minded folk as exotic at best or dangerously weird at worst. Most come from communities of non-cambion peoples, but more than a few grow up in places where cambions have gathered in settlements of their own. The most frequently encountered cambions (labeled as *fiendtouched* or *nephilim*) have ancestry tied to demons, devils, or the like. Others descend from creatures of the fey realm (sometimes called *feyblooded*), from elemental beings (known as *flamesouls*, *stormsouls*, *icesouls*, *acidsouls*, and *venomsouls*), or even from divine beings like angels or demigods (called *lightborn*).  
 
-Certain cambions resemble humanoid animals. There are also many descendants of the fey who have such features, such as the feline catfolk or the ravenlike kenku, as well as cambions of other lineages. Some sages group together all such peoples under the name beastkin.  
+Certain cambions resemble humanoid animals. There are also many descendants of the fey who have such features, such as the feline catfolk or the ravenlike kenku, as well as cambions of other lineages. Some sages group together all such peoples under the name *beastkin*.  
   
 ##### Cambion Quick Attributes  
   
@@ -768,15 +769,15 @@ Certain cambions resemble humanoid animals. There are also many descendants of t
 
 ##### Typical Cambion Assets  
 
-* Dark Cloak with a Large Hood  
-* Goggles  
-* Scrappy Tent  
-* Leather Longcoat  
-* Unsigned Love Letter  
-* Brace of Daggers  
-* Worn Disguise kit  
-* Surly Black Cat  
-* Red-Stringed Fiddle  
+* **Dark Cloak with a Large Hood**  
+* **Goggles**  
+* **Scrappy Tent**  
+* **Leather Longcoat**  
+* **Unsigned Love Letter**  
+* **Brace of Daggers**  
+* **Worn Disguise kit**  
+* **Surly Black Cat**  
+* **Red-Stringed Fiddle**  
   
 ##### Cambion Quick SFX  
   
@@ -804,7 +805,7 @@ Certain cambions resemble humanoid animals. There are also many descendants of t
 
 ***Otherworldly Insights:*** When you roll to investigate or manipulate strange phenomena, spend a Ⓟ to step up **Scholar** or **Speaker** and step up your effect die.  
 
-***Savor Your Victories:*** When you succeed on a roll to inflict stress, step down your own **Demoralized** , then shutdown this SFX until the end of the scene.  
+***Savor Your Victories:*** When you succeed on a roll to inflict stress, step down your own **Demoralized**, then shutdown this SFX until the end of the scene.  
 
 ***Swift as Shadows:*** Spend a Ⓟ to create a d8 asset related to moving at incredible speed. While you have this asset, you can move with preternatural quickness and jump twice as far. This asset ends immediately if you wear armor or use a shield.  
 
@@ -818,7 +819,7 @@ Certain cambions resemble humanoid animals. There are also many descendants of t
   
 Stout and often bearded, dwarves are known for mining, crafting, and carousing, though not necessarily in that order. They tend to be bigger and broader than smallfolk like halflings or gnomes, but shorter than humans and elves. Dwarves are renowned for their primordial connection to earth, metal and stone. Their skin shares the same range of colors as the earth itself, from tans and browns to the gray of granite or the crimson of red clay. Their cultures vary, but all tend to teach the virtues of determination, hard work, and tenacity, even to the point of stubbornness.  
 
-Among other peoples, dwarves have a reputation as implacable enemies and steadfast allies. Their largest communities are those of the mountain dwarves, who build great underground cities in caves beneath the tallest peaks. Other dwarven cultures include the hill dwarves, whose settlements are better positioned for trade with other peoples, and the obsidian dwarves, who have adapted to life in the deepest volcanic tunnels.  
+Among other peoples, dwarves have a reputation as implacable enemies and steadfast allies. Their largest communities are those of the *mountain dwarves*, who build great underground cities in caves beneath the tallest peaks. Other dwarven cultures include the *hill dwarves*, whose settlements are better positioned for trade with other peoples, and the *obsidian dwarves*, who have adapted to life in the deepest volcanic tunnels.  
   
 ##### Dwarf Quick Attributes  
   
@@ -826,14 +827,14 @@ Among other peoples, dwarves have a reputation as implacable enemies and steadfa
 
 ##### Typical Dwarf Assets  
 
-* Ancestral Battleaxe  
-* Hammer & Tongs  
-* Greathelm  
-* Inscribed Gauntlets  
-* Sigil of the Forge God  
-* Stonemason’s Tools  
-* Stout Donkey  
-* Warhammer  
+* **Ancestral Battleaxe**  
+* **Hammer & Tongs**  
+* **Greathelm**  
+* **Inscribed Gauntlets**  
+* **Sigil of the Forge God**  
+* **Stonemason’s Tools**  
+* **Stout Donkey**  
+* **Warhammer**  
   
 ##### Dwarf Quick SFX  
   
@@ -871,7 +872,7 @@ Among other peoples, dwarves have a reputation as implacable enemies and steadfa
   
 Supernaturally graceful, long-lived folk with pointed ears and an innate connection to their wilderness homelands, elves are kin to the fey, born of magic. Not every elf pursues the arcane arts, but none is ever truly mundane; each expresses their mystical nature in one way or another. They tend to be lithe and light on their feet, and tales say the most dextrous elves can stride across thin snowdrifts and flimsy tree branches where others would slip or fall.  
 
-Some of the most well-known elven folk are the wood elves, legendary for their subtle and instinctive skill as foresters; the high elves, who dwell in hidden refuges where the fey realm meets the mortal world; and the deep elves, who build magnificent cities in deep subterranean caverns. The various elven lineages include all the potential skin tones a human might have, plus a few more extreme hues, including the pale bluish-white complexions of some high elves from colder climes and the dark gray or purplish colors common among deep elves.  
+Some of the most well-known elven folk are the *wood elves*, legendary for their subtle and instinctive skill as foresters; the *high elves*, who dwell in hidden refuges where the fey realm meets the mortal world; and the *deep elves*, who build magnificent cities in deep subterranean caverns. The various elven lineages include all the potential skin tones a human might have, plus a few more extreme hues, including the pale bluish-white complexions of some high elves from colder climes and the dark gray or purplish colors common among deep elves.  
   
 ##### Elf Quick Attributes  
   
@@ -879,14 +880,14 @@ Some of the most well-known elven folk are the wood elves, legendary for their s
 
 ##### Typical Elf Assets  
 
-* Elegant Cuirass  
-* Cloak of Leaves  
-* Silvered Rapier  
-* Riding Elk  
-* Quartz Owl Icon  
-* Herb Pouch  
-* Supple Boots  
-* Hand-Carved Ashwood Longbow  
+* **Elegant Cuirass**  
+* **Cloak of Leaves**  
+* **Silvered Rapier**  
+* **Riding Elk**  
+* **Quartz Owl Icon**  
+* **Herb Pouch**  
+* **Supple Boots**  
+* **Hand-Carved Ashwood Longbow**  
   
 ##### Elf Quick SFX  
   
@@ -920,7 +921,7 @@ Some of the most well-known elven folk are the wood elves, legendary for their s
   
 Gnomes are cunning tricksters and clockwork inventors with magical talents for secrecy and creativity. Gnomes are descended from the fey and remain close to those roots. Many inherit a spirit of capricious mischief or pursue one idiosyncratic goal with insatiable, single-minded passion. Gnomes are among the smallest of smallfolk, seldom standing more than 3 feet (90cm) tall. They enjoy a wide variety of colorations and features, reflecting the vibrant diversity of the Fey Realm itself, though they can be categorized into a few subgroups.  
 
-Forest gnomes favor untamed wildernesses of unchecked vegetation, protected by their connection with nature and secretive illusion techniques. Fringe gnomes dwell in their own enclaves near or within larger communities, where they work to combine other cultures’ innovations with their own to invent wondrous devices. The subterranean fungal gnomes—called svirfneblin in their own tongue—are named for their staple crop, which they farm in vast and deep caverns. Legends of fringe gnomes having created living iron constructs known as ferrous gnomes are unconfirmed.  
+*Forest gnomes* favor untamed wildernesses of unchecked vegetation, protected by their connection with nature and secretive illusion techniques. *Fringe gnomes* dwell in their own enclaves near or within larger communities, where they work to combine other cultures’ innovations with their own to invent wondrous devices. The subterranean *fungal gnomes*—called *svirfneblin* in their own tongue—are named for their staple crop, which they farm in vast and deep caverns. Legends of fringe gnomes having created living iron constructs known as *ferrous gnomes* are unconfirmed.  
   
 ##### Gnome Quick Attributes  
   
@@ -928,13 +929,13 @@ Forest gnomes favor untamed wildernesses of unchecked vegetation, protected by t
   
 ##### Typical Gnome Assets  
   
-* Miniature Crossbow  
-* Camouflage Cloak  
-* Clockwork Blade Sharpener  
-* Jeweler’s Loupe  
-* Inquisitive Ferret  
-* Iron Toolbox  
-* Cobbler’s Hammer  
+* **Miniature Crossbow**  
+* **Camouflage Cloak**  
+* **Clockwork Blade Sharpener**  
+* **Jeweler’s Loupe**  
+* **Inquisitive Ferret**  
+* **Iron Toolbox**  
+* **Cobbler’s Hammer**  
   
 ##### Gnome Quick SFX  
   
@@ -946,7 +947,7 @@ Forest gnomes favor untamed wildernesses of unchecked vegetation, protected by t
 
 ***Arcane Cunning:*** When you roll to avoid a magical complication, spend a Ⓟ to step up **Scholar** or **Scoundrel** and step up your effect die.  
 
-***Clockwork Limb:*** When you would take **Damaged**, spend a Ⓟ to step down the stress you would take and then turn it into a Detached Limb complication.  
+***Clockwork Limb:*** When you would take **Damaged**, spend a Ⓟ to step down the stress you would take and then turn it into a **Detached Limb** complication.  
 
 ***Earthen Endurance:*** Spend a Ⓟ to double your distinction on a roll to avoid **Exhausted** stress or avoid **Damaged** from nonmagical weapons.  
 
@@ -970,7 +971,7 @@ Forest gnomes favor untamed wildernesses of unchecked vegetation, protected by t
   
 Goblins are tenacious survivors who tend to be wiry, cunning, and stealthy. They have a wider range of skin tones than humans, with shades of green or red as common among them as brown or gold. History is full of goblin uprisings against oppression. Tyrants and conquerors often see goblins as ideal soldiers and try to press them into service, so most goblins make their homes in hidden places. They have a reputation for teamwork and resilience, for getting out of tight corners by stealth or guile, and for quickly crafting clever weapons out of unlikely materials.  
 
-When most folk refer to goblins, they usually mean cave goblins, smallfolk with an uncanny knack for narrow escapes, who build communities in the interstitial spaces between other settlements and cultures. Their human-sized kin, hobgoblins, are known for uncanny collaborative instincts and insights into group dynamics, allowing them to coordinate their efforts with allies in extraordinary ways. Bugbears, another branch of goblinkind, are tallfolk with a supernatural gift for moving unseen despite their great size.  
+When most folk refer to goblins, they usually mean *cave goblins*, smallfolk with an uncanny knack for narrow escapes, who build communities in the interstitial spaces between other settlements and cultures. Their human-sized kin, *hobgoblins*, are known for uncanny collaborative instincts and insights into group dynamics, allowing them to coordinate their efforts with allies in extraordinary ways. *Bugbears*, another branch of goblinkind, are tallfolk with a supernatural gift for moving unseen despite their great size.  
   
 ##### Goblin Quick Attributes  
   
@@ -978,14 +979,14 @@ When most folk refer to goblins, they usually mean cave goblins, smallfolk with 
   
 ##### Typical Goblin Assets  
   
-* Scavenged Chain Shirt  
-* Map of Tunnels Under the City  
-* Lucky Dice  
-* Rope Ladder  
-* Set of Bonecarver’s Tools  
-* Paired Hatchets  
-* Riding Worg  
-* Waterproof Tent  
+* **Scavenged Chain Shirt**  
+* **Map of Tunnels Under the City**  
+* **Lucky Dice**  
+* **Rope Ladder**  
+* **Set of Bonecarver’s Tools**  
+* **Paired Hatchets**  
+* **Riding Worg**  
+* **Waterproof Tent**  
   
 ##### Goblin Quick SFX  
   
@@ -1021,7 +1022,7 @@ When most folk refer to goblins, they usually mean cave goblins, smallfolk with 
   
 Folk of all kinds crave community, good food, and the comforts of hearth and home, but halflings seem to feel the love of these things in their very bones. These smallfolk have a reputation for fitting in wherever they go, whether as the life of the party or just a face in the crowd. Other legends tell of their green thumbs, knack for stealth, or preternatural luck. They look much like humans, with the same range of complexions and features, but at roughly half the size.  
 
-Most halflings are shirelings, who tend to spend their lives rooted to stable settlements on fertile farmland where cozy houses are built into hillsides and fresh produce is always plentiful. In such villages, what other folk would consider a legendary feast is seen by the locals as just a casual brunch. There are also migratory clans, such as the riverfolk who travel along rivers and coastlines in fleets of watercraft. The halflings known as bladeriders are reclusive hunter-gatherers with a spiritual reverence for the beasts they breed as mounts—whether they are ponies, dire wolves, or even drakes. The lithe and childlike wanderken are free-spirited folk whose irrepressible curiosity and impulsive wanderlust tend to get them into constant trouble.  
+Most halflings are *shirelings*, who tend to spend their lives rooted to stable settlements on fertile farmland where cozy houses are built into hillsides and fresh produce is always plentiful. In such villages, what other folk would consider a legendary feast is seen by the locals as just a casual brunch. There are also migratory clans, such as the *riverfolk* who travel along rivers and coastlines in fleets of watercraft. The halflings known as bladeriders are reclusive hunter-gatherers with a spiritual reverence for the beasts they breed as mounts—whether they are ponies, dire wolves, or even drakes. The lithe and childlike *wanderken* are free-spirited folk whose irrepressible curiosity and impulsive wanderlust tend to get them into constant trouble.  
   
 ##### Halfling Quick Attributes  
   
@@ -1029,16 +1030,16 @@ Most halflings are shirelings, who tend to spend their lives rooted to stable se
   
 ##### Typical Halfling Assets  
   
-* Skillet & Spices  
-* Sling & Sack of Marbles  
-* Book of Simple Prayers  
-* Hammock  
-* Shortsword  
-* Leather Hauberk  
-* Stalwart Pony  
-* Wheel of Cheese  
-* Woollen Traveler’s Cloak  
-* Padded Bedroll  
+* **Skillet & Spices**  
+* **Sling & Sack of Marbles**  
+* **Book of Simple Prayers**  
+* **Hammock**  
+* **Shortsword**  
+* **Leather Hauberk**  
+* **Stalwart Pony**  
+* **Wheel of Cheese**  
+* **Woollen Traveler’s Cloak**  
+* **Padded Bedroll**  
   
 ##### Halfling Quick SFX  
   
@@ -1068,7 +1069,7 @@ Most halflings are shirelings, who tend to spend their lives rooted to stable se
 
 ***Resilient Luck:*** When you start a scene with no Ⓟs, gain one.  
 
-***Second Breakfast:*** When you spend at least an hour indulging (or overindulging) in food, drink, or luxuries, step down all your stresses and complications, then gain the complication Indulged d6. If you share, you may invite others to do the same.  
+***Second Breakfast:*** When you spend at least an hour indulging (or overindulging) in food, drink, or luxuries, step down all your stresses and complications, then gain the complication **Indulged** d6. If you share, you may invite others to do the same.  
 
 ***Taunt:*** On your turn, when you succeed on a roll that includes **Speaker**, keep a second effect die as **Enthralled** against a foe that can see or hear you.  
   
@@ -1076,7 +1077,7 @@ Most halflings are shirelings, who tend to spend their lives rooted to stable se
   
 As unpredictable as they are diverse, humans are famous for the bewildering variety of their customs, interests, and ways of life. Poets among the dwarves and elves—who enjoy much longer average lifespans—have often mused that humans’ brief lives stoke the fires of ambition, driving them to make their mark on the world as quickly as they can. Their versatility and insatiable urge to explore have made them the most numerous of the world’s peoples.  
 
-Nearly every inhabited region or major city has at least few humans living in it. They exhibit the same range of skin, eye, and hair colors as their kin on Earth, but they are the only one of the world’s peoples who aren't born with any innate magical gifts (unless they have extraordinary ancestry). However, they can still master spellcasting as well as anyone. From grizzled folk of icy climes and seafaring raiders to cosmopolitan city dwellers and nomads of the vast grasslands, humans boast more different cultures and lifestyles than can easily be counted. Some sage categorize human subcultures based on what kind of environment they come from, such as urban humans or humans from certain terrains (coastal, desert, forest, plains, mountain, swamp, wastelands, or arctic folk).  
+Nearly every inhabited region or major city has at least few humans living in it. They exhibit the same range of skin, eye, and hair colors as their kin on Earth, but they are the only one of the world’s peoples who aren't born with any innate magical gifts (unless they have extraordinary ancestry). However, they can still master spellcasting as well as anyone. From grizzled folk of icy climes and seafaring raiders to cosmopolitan city dwellers and nomads of the vast grasslands, humans boast more different cultures and lifestyles than can easily be counted. Some sage categorize human subcultures based on what kind of environment they come from, such as *urban humans* or humans from certain terrains (*coastal*, *desert*, *forest*, *plains*, *mountain*, *swamp*, *wastelands*, or *arctic* folk).  
   
 ##### Human Quick Attributes  
   
@@ -1084,16 +1085,16 @@ Nearly every inhabited region or major city has at least few humans living in it
   
 ##### Typical Human Assets  
   
-* Bastard Sword  
-* Iron Breastplate  
-* Gilt Cartographer’s Toolcase  
-* Sturdy Pack Mule  
-* 10-Foot Pole  
-* Kite Shield  
-* Tome of the Faith  
-* Hooded Lantern  
-* Impressive Wardrobe  
-* Ledger of Loans & Debts  
+* **Bastard Sword**  
+* **Iron Breastplate**  
+* **Gilt Cartographer’s Toolcase**  
+* **Sturdy Pack Mule**  
+* **10-Foot Pole**  
+* **Kite Shield**  
+* **Tome of the Faith**  
+* **Hooded Lantern**  
+* **Impressive Wardrobe**  
+* **Ledger of Loans & Debts**  
   
 ##### Human Quick SFX  
   
@@ -1129,7 +1130,7 @@ Nearly every inhabited region or major city has at least few humans living in it
   
 Tallfolk known for their hulking bodies, dense muscles, skin in shades of grey or green, and intimidating horns or tusks, ogres boast a reputation as powerful comrades and terrifying foes. Ancient myth speaks of deities dividing the new-made world into territories for their favored peoples, leaving ogres with only the inhospitable hinterlands. According to some ogre storytellers, their ancestors accepted this as a challenge, defiantly thriving in shallow caverns, rocky chasms, and sunless swamps. Perhaps owing to these harsh homelands, ogre cultures tend to prize hunting skill, martial prowess, honorable conduct, and strong familial bonds.  
   
-The most populous ogre communities are those of the orks, whose war hordes can annihilate invading armies in a single battle and cripple even the most powerful kingdoms with lightning raids. Half-giants are gray-skinned mountain folk who pursue athletic competitions and other tests of skill with even more intensity than other ogres. Curling horns, furry hide, and pronounced snouts give minotaurs a distinctly bovine appearance. An islander and maritime people, minotaurs feature prominently in pirate stories. Gray ogres tend to be both the largest and the most reclusive of ogrekind, favoring deep backwoods and caves to shun polite society.  
+The most populous ogre communities are those of the *orks*, whose war hordes can annihilate invading armies in a single battle and cripple even the most powerful kingdoms with lightning raids. *Half-giants* are gray-skinned mountain folk who pursue athletic competitions and other tests of skill with even more intensity than other ogres. Curling horns, furry hide, and pronounced snouts give *minotaurs* a distinctly bovine appearance. An islander and maritime people, minotaurs feature prominently in pirate stories. *Gray ogres* tend to be both the largest and the most reclusive of ogrekind, favoring deep backwoods and caves to shun polite society.  
   
 ##### Ogre Quick Attributes  
   
@@ -1137,16 +1138,16 @@ The most populous ogre communities are those of the orks, whose war hordes can a
   
 ##### Typical Ogre Assets  
   
-* Ancestral Relic  
-* Handheld Drum  
-* Bone Harpoon  
-* Hide Armor with Furred Pauldron  
-* Tower Shield  
-* Greataxe  
-* Horned Helm  
-* Spiked Mace  
-* Skull Goblet  
-* Mammoth & Riding Harness  
+* **Ancestral Relic**  
+* **Handheld Drum**  
+* **Bone Harpoon**  
+* **Hide Armor with Furred Pauldron**  
+* **Tower Shield**  
+* **Greataxe**  
+* **Horned Helm**  
+* **Spiked Mace**  
+* **Skull Goblet**  
+* **Mammoth & Riding Harness**  
   
 ##### Ogre Quick SFX  
   
@@ -1158,7 +1159,7 @@ The most populous ogre communities are those of the orks, whose war hordes can a
 
 ***Destructive Strike (Gear):*** Take **Demoralized**  d6 to double a weapon asset on a roll to inflict **Damaged**.  
 
-***Iron Fortitude:*** On a roll to resist **Damaged**, **Demoralized** , or **Exhausted**, spend a Ⓟ to step up **Soldier** and step up your effect die.  
+***Iron Fortitude:*** On a roll to resist **Damaged**, **Demoralized**, or **Exhausted**, spend a Ⓟ to step up **Soldier** and step up your effect die.  
 
 ***Long in the Tusk:*** When you share the wisdom of your people, spend a Ⓟ to double your distinction for one roll.  
 
@@ -1178,7 +1179,7 @@ The most populous ogre communities are those of the orks, whose war hordes can a
 
 ***Scavenging to Survive:*** When scavenging ruins or conquered settlements for valuable items, add d6 and step up your effect die.  
 
-***Strongest There Is:*** Spend a Ⓟ to double **Brawn** on a roll to inflict **Damaged** or **Demoralized** , or to create an asset related to inspiring courage. On a heroic success, step down **Demoralized** for yourself or a nearby ally.  
+***Strongest There Is:*** Spend a Ⓟ to double **Brawn** on a roll to inflict **Damaged** or **Demoralized**, or to create an asset related to inspiring courage. On a heroic success, step down **Demoralized** for yourself or a nearby ally.  
 
 ***Tenacious Spite:*** Step down **Damaged** to double a d8 distinction; afterwards, step up **Exhausted**.  
 
@@ -1188,7 +1189,7 @@ The most populous ogre communities are those of the orks, whose war hordes can a
   
 The legacy of dragons has defined the heritage of many humanoid folk. While separate draconic species differ greatly in their physical traits, they share certain attributes in common, including scaly skin that is thicker in their extremities, horned skulls, taloned hands and feet, reptilian eyes that usually range between red and gold, and laying eggs. Features like wings, tails, resistance to certain forms of harm, and even a dragon’s destructive breath weapon do occur, but differ by population group or even between individuals, as do the colors of the scales.  
 
-In terms of personality, wyrmkin vary as much as any people, yet in every draconic heart, a fire burns. This hunger for greatness echoes the powerful drives of the great dragons themselves. In some, this ambition may manifest as a yearning for glory or respect, in others it might be the urge to conquer or rule. The most well-known wyrmkin are the diminutive, tunnel-dwelling smallfolk called kobolds and the saurian lizardfolk who favor homelands in marshes or jungles. Another, rarer group are the draechen, formidable tallfolk with a knightly culture and mysterious origins.  
+In terms of personality, wyrmkin vary as much as any people, yet in every draconic heart, a fire burns. This hunger for greatness echoes the powerful drives of the great dragons themselves. In some, this ambition may manifest as a yearning for glory or respect, in others it might be the urge to conquer or rule. The most well-known wyrmkin are the diminutive, tunnel-dwelling smallfolk called *kobolds* and the saurian *lizardfolk* who favor homelands in marshes or jungles. Another, rarer group are the *draechen*, formidable tallfolk with a knightly culture and mysterious origins.  
   
 ##### Wyrmkin Quick Attributes  
   
@@ -1206,17 +1207,17 @@ In terms of personality, wyrmkin vary as much as any people, yet in every dracon
   
 ##### Typical Wyrmkin Assets  
   
-* Clan-Crested Square Shield  
-* Bone Helm  
-* Caltrops  
-* Cudgel  
-* Teak Chess Set  
-* Feathered Cloak  
-* Dragon Pendant  
-* Gold Jewelry  
-* Scale Armor  
-* Trapsmithing Kit  
-* Trained Iguanadon  
+* **Clan-Crested Square Shield**  
+* **Bone Helm**  
+* **Caltrops**  
+* **Cudgel**  
+* **Teak Chess Set**  
+* **Feathered Cloak**  
+* **Dragon Pendant**  
+* **Gold Jewelry**  
+* **Scale Armor**  
+* **Trapsmithing Kit**  
+* **Trained Iguanadon**  
   
 ##### Wyrmkin Quick SFX  
   
@@ -1256,7 +1257,7 @@ For instance, Jeremy is a big fan of the old-school fantasy creatures called gno
 
 Gnolls are a special type of fiendtouched cambion, hyena-like tallfolk who exist in greater numbers than other cambions, most of whom travel in nomadic tribal groups. Though ancient pacts bind many gnolls to the service of demons and compel them to mercilessly raid their neighbors, there are also large gnoll communities whose members have escaped this fiendish subjugation.  
 
-Working with his GM, Miriam, Jeremy gives his character the distinction Gnoll of the Northern Badlands, and they identify five cambion SFX and five ogre SFX that all seem to make sense for a gnoll PC. During character creation, and as the character grows in his career, Jeremy will choose people SFX from the list he and Miriam agreed on.  
+Working with his GM, Miriam, Jeremy gives his character the distinction **Gnoll of the Northern Badlands**, and they identify five cambion SFX and five ogre SFX that all seem to make sense for a gnoll PC. During character creation, and as the character grows in his career, Jeremy will choose people SFX from the list he and Miriam agreed on.  
   
 ### Professions  
   
@@ -1264,17 +1265,17 @@ Choose one of the professions listed in the following pages to define your chara
   
 #### Multi-Profession Characters  
   
-Effort has been made to make each of these distinctions as inclusive as possible, but you might decide you want to play a character who practices more than one profession. Perhaps your character went to seminary to pursue their calling as a cleric, but at night they were haunted by a decidedly unholy being who also persuaded them to make a pact and become a hexknight. If so, you can reflect this dichotomy in your distinction name (Cleric by Day, Hexknight by Night), and then work with your GM to choose SFX that capture your character’s capabilities.  
+Effort has been made to make each of these distinctions as inclusive as possible, but you might decide you want to play a character who practices more than one profession. Perhaps your character went to seminary to pursue their calling as a cleric, but at night they were haunted by a decidedly unholy being who also persuaded them to make a pact and become a hexknight. If so, you can reflect this dichotomy in your distinction name (**Cleric by Day, Hexknight by Night**), and then work with your GM to choose SFX that capture your character’s capabilities.  
   
 #### Bard  
   
 Wielding skill and spell to support allies and befuddle foes, the bard inspires though performance, artistry, leadership, and lore. Common career paths your bard might pursue include:  
 
-▶ A troubadour traipsing from town to town, performing songs, reciting poetry and tales, and bringing news of distant lands.  
-▶ A herald wearing the colors of their liege, serving as a messenger, diplomat, historian, and arbiter of etiquette.  
-▶ A skald fighting alongside fierce comrades, a warrior-poet whose songs and chants inspire courageous deeds and preserve epic tales.  
-▶ A loremaster devoted to academic scholarship, conducting research, educating students, and recording knowledge for posterity.  
-▶ A jongleur, traveling for applause and coin, performing death-defying acrobatics, knife throwing, juggling, and other crowd-pleasing stunts.  
+▶ A *troubadour* traipsing from town to town, performing songs, reciting poetry and tales, and bringing news of distant lands.  
+▶ A *herald* wearing the colors of their liege, serving as a messenger, diplomat, historian, and arbiter of etiquette.  
+▶ A *skald* fighting alongside fierce comrades, a warrior-poet whose songs and chants inspire courageous deeds and preserve epic tales.  
+▶ A *loremaster* devoted to academic scholarship, conducting research, educating students, and recording knowledge for posterity.  
+▶ A *jongleur*, traveling for applause and coin, performing death-defying acrobatics, knife throwing, juggling, and other crowd-pleasing stunts.  
   
 ##### Bard Quick Roles  
   
@@ -1282,19 +1283,19 @@ Wielding skill and spell to support allies and befuddle foes, the bard inspires 
   
 ##### Typical Bard Specialties  
   
-* History  
-* Enchantment  
-* Balladry  
-* Busking  
-* Flirting  
-* Horns  
-* Illusion  
-* Lute  
-* Oration  
-* Painting  
-* Pan Flute  
-* Persuasion  
-* Reading People  
+* **History**  
+* **Enchantment**  
+* **Balladry**  
+* **Busking**  
+* **Flirting**  
+* **Horns**  
+* **Illusion**  
+* **Lute**  
+* **Oration**  
+* **Painting**  
+* **Pan Flute**  
+* **Persuasion**  
+* **Reading People**  
   
 ##### Bard Quick SFX  
   
@@ -1350,11 +1351,11 @@ Wielding skill and spell to support allies and befuddle foes, the bard inspires 
   
 Devotion to a higher power infuses clerics with sacred energies, making them miraculous healers, channellers of divine wrath, and champions of spiritual causes. Common career paths your cleric might pursue include:  
 
-▶ An ordained priest tending to the spiritual life of their community, whether that means teaching, preaching, performing religious rites, or ministering to those in need.  
-▶ A warpriest who masters arms and armor, blesses allies, and calls down divine wrath upon the enemies of their church or nation.  
-▶ An oracle who wanders between settlements as a mendicant, delivering prophecies and divine truths despite the efforts of those in power to silence them.  
-▶ An ascetic of a contemplative order, eschewing worldly pursuits to seek the direct experience of divinity as a hermit, monk, or nun.  
-▶ A runecaster who inscribes the divine alphabet of creation itself to discern divine will and channel raw power from the heavens.  
+▶ An *ordained priest* tending to the spiritual life of their community, whether that means teaching, preaching, performing religious rites, or ministering to those in need.  
+▶ A *warpriest* who masters arms and armor, blesses allies, and calls down divine wrath upon the enemies of their church or nation.  
+▶ An *oracle* who wanders between settlements as a mendicant, delivering prophecies and divine truths despite the efforts of those in power to silence them.  
+▶ An *ascetic of a contemplative order*, eschewing worldly pursuits to seek the direct experience of divinity as a hermit, monk, or nun.  
+▶ A *runecaster* who inscribes the divine alphabet of creation itself to discern divine will and channel raw power from the heavens.  
   
 ##### Cleric Quick Roles  
   
@@ -1362,20 +1363,20 @@ Devotion to a higher power infuses clerics with sacred energies, making them mir
   
 ##### Typical Cleric Specialties  
   
-* Undead Lore  
-* Medicine  
-* Applied Theology  
-* Empathy  
-* Oration  
-* Community  
-* Rites  
-* Religious Traditions  
-* Curses  
-* Leadership  
-* Penitence  
-* Demonology  
-* Armor  
-* Library Use  
+* **Undead Lore**  
+* **Medicine**  
+* **Applied Theology**  
+* **Empathy**  
+* **Oration**  
+* **Community**  
+* **Rites**  
+* **Religious Traditions**  
+* **Curses**  
+* **Leadership**  
+* **Penitence**  
+* **Demonology**  
+* **Armor**  
+* **Library Use**  
   
 ##### Cleric Quick SFX  
   
@@ -1411,7 +1412,7 @@ Devotion to a higher power infuses clerics with sacred energies, making them mir
 
 ***Ecclesiastical Support:*** While in a populated settlement, spend a Ⓟ to create a d8 asset related to support from a local temple or church of your faith. Once a day, you can step down the asset to step down **Damaged** for yourself or an ally.  
 
-***Expert Healer:*** When you roll to help an ally recover **Damaged** or **Demoralized** , add d6 and step up your effect die.  
+***Expert Healer:*** When you roll to help an ally recover **Damaged** or **Demoralized**, add d6 and step up your effect die.  
 
 ***Extended Lifespan:*** Spend a Ⓟ to ignore a complication or stress caused by aging, the passage of years, or time-based effects.  
 
@@ -1429,11 +1430,11 @@ Devotion to a higher power infuses clerics with sacred energies, making them mir
   
 Courageous, versatile, and stalwart warriors, fighters master a formidable arsenal of arms and armor. Common career paths your fighter might pursue include:  
 
-▶ A mercenary, trading martial prowess for coin wherever battles are fought and bravery is required.  
-▶ A commander, taking leadership of military units and marshaling soldiers in service of a greater strategy.  
-▶ An adept, perfecting martial arts as a spiritual discipline and matching their technique against new challenges as a path to personal growth.  
-▶ A berserker, losing themselves in savage battle rage to unleash implacable fury on all who oppose them.  
-▶ A spellsword, a warrior who dabbles in the arcane arts to enhance their combat prowess with battle magic.  
+▶ A *mercenary*, trading martial prowess for coin wherever battles are fought and bravery is required.  
+▶ A *commander*, taking leadership of military units and marshaling soldiers in service of a greater strategy.  
+▶ An *adept*, perfecting martial arts as a spiritual discipline and matching their technique against new challenges as a path to personal growth.  
+▶ A *berserker*, losing themselves in savage battle rage to unleash implacable fury on all who oppose them.  
+▶ A *spellsword*, a warrior who dabbles in the arcane arts to enhance their combat prowess with battle magic.  
   
 ##### Fighter Quick Roles  
   
@@ -1441,21 +1442,21 @@ Courageous, versatile, and stalwart warriors, fighters master a formidable arsen
   
 ##### Typical Fighter Specialties  
   
-* Military Tactics  
-* Armor  
-* Endurance  
-* Shields  
-* Blacksmith  
-* Duelist  
-* Feudal  
-* Politics  
-* Swordplay  
-* Siegecraft  
-* Equestrian  
-* Geography  
-* Leadership  
-* Polearms  
-* Two-Handed Weapon Stance  
+* **Military Tactics**  
+* **Armor**  
+* **Endurance**  
+* **Shields**  
+* **Blacksmith**  
+* **Duelist**  
+* **Feudal**  
+* **Politics**  
+* **Swordplay**  
+* **Siegecraft**  
+* **Equestrian**  
+* **Geography**  
+* **Leadership**  
+* **Polearms**  
+* **Two-Handed Weapon Stance**  
   
 ##### Fighter Quick SFX  
   
@@ -1527,11 +1528,11 @@ Courageous, versatile, and stalwart warriors, fighters master a formidable arsen
   
 The hexknight is a warrior who has made a costly bargain, supplementing their martial prowess with eldritch curses, black market alchemy, and powerful yet risky spells. Common career paths your hexknight might pursue include:  
 
-▶ A hedge knight whose only marketable skill was warfare, learning magic out of desperation as you try to eke out a living without the privilege of a knighted noble.  
-▶ An anti-paladin, casting yourself as the villain in a tale where the “heroes” have lost their way and corrupt hypocrisy must be revealed.  
-▶ A witcher, empowering yourself with both spells and alchemy to hunt monsters for coin.  
-▶ A bodyguard, bringing all your spells and skill at arms to bear in the protection of someone who needs it.  
-▶ A mageblade, trained in ancient magical combat techniques and seeking the ultimate unity between martial skill and spellcasting might.  
+▶ A *hedge knight* whose only marketable skill was warfare, learning magic out of desperation as you try to eke out a living without the privilege of a knighted noble.  
+▶ An *anti-paladin*, casting yourself as the villain in a tale where the “heroes” have lost their way and corrupt hypocrisy must be revealed.  
+▶ A *witcher*, empowering yourself with both spells and alchemy to hunt monsters for coin.  
+▶ A *bodyguard*, bringing all your spells and skill at arms to bear in the protection of someone who needs it.  
+▶ A *mageblade*, trained in ancient magical combat techniques and seeking the ultimate unity between martial skill and spellcasting might.  
   
 ##### Hexknight Quick Roles  
   
@@ -1539,22 +1540,21 @@ The hexknight is a warrior who has made a costly bargain, supplementing their ma
   
 ##### Typical Hexknight Specialties  
   
-* Curses  
-* Diplomacy  
-* Duelist  
-* Escape Artist  
-* Shadow Magic  
-* Potions  
-* Fire Magic  
-* Haggling  
-* Counterspells  
-* Jousting  
-* Necromancy  
-* Heraldry  
-* Law  
-* Library Use  
-* Military  
-* Tactics  
+* **Curses**  
+* **Diplomacy**  
+* **Duelist**  
+* **Escape Artist**  
+* **Shadow Magic**  
+* **Potions**  
+* **Fire Magic**  
+* **Haggling**  
+* **Counterspells**  
+* **Jousting**  
+* **Necromancy**  
+* **Heraldry**  
+* **Law**  
+* **Library Use**  
+* **Military Tactics**  
   
 ##### Hexknight Quick SFX  
   
@@ -1580,7 +1580,7 @@ The hexknight is a warrior who has made a costly bargain, supplementing their ma
 
 ***Dramatic Reactions:*** Whenever your roll to interact with a GMC includes **Speaker** or **Charisma**, double your highest die and step up your effect die, but both 1 and 2 on your dice count as hitches.  
 
-***Eldritch Rune:*** Double your largest die on a roll to inflict **Damaged** or **Demoralized** with magic. If the roll fails, the stress for failing is **Demoralized** , and you step it up.  
+***Eldritch Rune:*** Double your largest die on a roll to inflict **Damaged** or **Demoralized** with magic. If the roll fails, the stress for failing is **Demoralized**, and you step it up.  
 
 ***En Garde:*** When you duel a single opponent, take **Enthralled** d8 to inflict the same on your opponent. Neither of you may add the other’s **Enthralled** to your pool unless your opponent’s focus drifts from the fight.  
 
@@ -1610,11 +1610,11 @@ Mages are the undisputed masters of spellcasting, unlocking potentially limitles
 
 Common career paths your mage might pursue include:  
 
-▶ A wizard, a scholar of arcane magic, exponentially increasing the power of their spells as they progress through constant magical research and study of spellbooks.  
-▶ A sorcerer, gifted with an innate knack for spellcasting, drawing upon an internal flow of magic fed by supernatural ancestry or another mysterious source.  
-▶ A warlock, whose eldritch pact with an otherworldly patron grants arcane secrets and mysterious spells from beyond the mortal realm.  
-▶ A hedge mage, casting self-taught spells to help their community and make a humble living rather than seeking the heights of power.  
-▶ An arcanist, devoted to completely mastering a single form of magic, such as necromancy, fire magic, illusion, or the art of creating magic items.  
+▶ A *wizard*, a scholar of arcane magic, exponentially increasing the power of their spells as they progress through constant magical research and study of spellbooks.  
+▶ A *sorcerer*, gifted with an innate knack for spellcasting, drawing upon an internal flow of magic fed by supernatural ancestry or another mysterious source.  
+▶ A *warlock*, whose eldritch pact with an otherworldly patron grants arcane secrets and mysterious spells from beyond the mortal realm.  
+▶ A *hedge mage*, casting self-taught spells to help their community and make a humble living rather than seeking the heights of power.  
+▶ An *arcanist*, devoted to completely mastering a single form of magic, such as necromancy, fire magic, illusion, or the art of creating magic items.  
   
 ##### Mage Quick Roles  
   
@@ -1622,19 +1622,19 @@ Common career paths your mage might pursue include:
   
 ##### Typical Mage Specialties  
   
-* Arcane Secrets  
-* Conjuration  
-* Subtlety  
-* History  
-* Ice Magic  
-* Alchemy  
-* Library Use  
-* Fire Magic  
-* Necromancy  
-* Investigation  
-* Lightshow  
-* Shadow Magic  
-* Storm Magic  
+* **Arcane Secrets**  
+* **Conjuration**  
+* **Subtlety**  
+* **History**  
+* **Ice Magic**  
+* **Alchemy**  
+* **Library Use**  
+* **Fire Magic**  
+* **Necromancy**  
+* **Investigation**  
+* **Lightshow**  
+* **Shadow Magic**  
+* **Storm Magic**  
   
 ##### Mage Quick SFX  
   
@@ -1684,17 +1684,17 @@ Common career paths your mage might pursue include:
 
 ***Wizard’s Arcane Spells:*** Double **Scholar** when rolling to create assets or complications (including stress) with magic. On a success, spend a Ⓟ or take **Exhausted** d6.  
 
-***Wellspring of Sorcery:*** After the start of a session, spend a Ⓟ to create a d8 asset related to your innate sorcery. When you would take **Exhausted** or **Demoralized** , step down the asset to step down the stress you take.  
+***Wellspring of Sorcery:*** After the start of a session, spend a Ⓟ to create a d8 asset related to your innate sorcery. When you would take **Exhausted** or **Demoralized**, step down the asset to step down the stress you take.  
   
 #### Mystic  
   
 The mystic is an outsider with psychic insights who seeks wisdom in wild places beyond civilized lands, drawing on primal forces to cast spells and assume animal forms. Common career paths your mystic might pursue include:  
 
-▶ A sentinel, called to protect a particular wild place or region at all costs and aided by mysterious spirits of nature.  
-▶ A priestess of the Old Ways, preserving ancient beliefs that predate civilization, revering the balance of nature and life’s eternal cycle above transitory mortal concerns.  
-▶ A beastling, naturally gifted in projecting their spirit to enter a beast’s mind and control its actions.  
-▶ A seer, blessed or cursed with supernatural perceptions that grant enigmatic visions of distant events, future threats, and potential tragedies.  
-▶ A shepherd of the elements, specializing in the eternal magic of earth, air, fire, or water, summoning primal forces and powerful elementals to enact their will.  
+▶ A *sentinel*, called to protect a particular wild place or region at all costs and aided by mysterious spirits of nature.  
+▶ A *priestess of the Old Ways*, preserving ancient beliefs that predate civilization, revering the balance of nature and life’s eternal cycle above transitory mortal concerns.  
+▶ A *beastling*, naturally gifted in projecting their spirit to enter a beast’s mind and control its actions.  
+▶ A *seer*, blessed or cursed with supernatural perceptions that grant enigmatic visions of distant events, future threats, and potential tragedies.  
+▶ A *shepherd of the elements*, specializing in the eternal magic of earth, air, fire, or water, summoning primal forces and powerful elementals to enact their will.  
   
 ##### Mystic Quick Roles  
   
@@ -1702,26 +1702,26 @@ The mystic is an outsider with psychic insights who seeks wisdom in wild places 
   
 ##### Typical Mystic Specialties  
   
-* Herblore  
-* Camouflage  
-* Animal Kinship  
-* Climbing  
-* Burrowing  
-* Fire Magic  
-* Flying  
-* Earth Magic  
-* Hunting  
-* Survival  
-* Ice Magic  
-* Storm Magic  
-* Swimming  
-* Wildlife  
+* **Herblore**  
+* **Camouflage**  
+* **Animal Kinship**  
+* **Climbing**  
+* **Burrowing**  
+* **Fire Magic**  
+* **Flying**  
+* **Earth Magic**  
+* **Hunting**  
+* **Survival**  
+* **Ice Magic**  
+* **Storm Magic**  
+* **Swimming**  
+* **Wildlife**  
   
 ##### Mystic Quick SFX  
   
 ***Balm:*** When you recover non-Damaged stress, spend a Ⓟ to apply the recovery to more than one character. For each additional target, add d6 and keep an extra effect die.  
 
-***Beastform:*** Take on an animal form by creating an appropriate asset (Eagle Form, Shape of a Bear, etc.) and stay in that form as long as the asset lasts. When you create the asset, step down one of your roles and step up another. Recover your roles’ normal ratings by eliminating the asset.  
+***Beastform:*** Take on an animal form by creating an appropriate asset (**Eagle Form**, **Shape of a Bear**, etc.) and stay in that form as long as the asset lasts. When you create the asset, step down one of your roles and step up another. Recover your roles’ normal ratings by eliminating the asset.  
 
 ##### Typical Mystic Limits  
 
@@ -1751,7 +1751,7 @@ The mystic is an outsider with psychic insights who seeks wisdom in wild places 
 
 ***Sharpened Senses:*** When you take a complication related to stealth, deception, or illusion, you can immediately spend a Ⓟ to step down that complication.  
 
-***Skinchanger:*** Spend a Ⓟ to project your sprit into the mind of a non-intelligent animal and control its actions, gaining a d10 asset but also the complication Unconscious Body d8, which affects your true form. Remove the asset to return to your own body and eliminate the complication.  
+***Skinchanger:*** Spend a Ⓟ to project your sprit into the mind of a non-intelligent animal and control its actions, gaining a d10 asset but also the complication **Unconscious Body** d8, which affects your true form. Remove the asset to return to your own body and eliminate the complication.  
 
 ***Stormshroud:*** When using weather (natural or summoned) to hide your presence or that of your allies, step up your effect die.  
 
@@ -1762,18 +1762,17 @@ The mystic is an outsider with psychic insights who seeks wisdom in wild places 
 ***Vessel of the Nature Spirits:*** Take **Enthralled** d6 to step up **Scout** when rolling to magically influence or enhance plants or animals, or to use weather-related magic. If your roll succeeds, step up your effect die.  
 
 ***Walk Among Dreams:*** Enter the dreams of the sleeping with a test and take along allies by keeping additional effect dice. In dreams, step up your effect die to recover or inflict **Demoralized** and **Enthralled**.  
-
 ***Woodguide:*** When you sleep on untilled ground with no roof over your head for at least an hour, spend a Ⓟ to step down **Exhausted**.  
   
 #### Paladin  
   
 The paladin is a legendary “knight in shining armor,” a warrior who draws divine might from their sacred oath, which binds them in fidelity to a faith, loyalty to a liege, or commitment to a cause (whether holy or unholy). Common career paths your paladin might pursue include:  
 
-▶ A cavalier, a mounted knight errant dedicated to the quest, governed by a code of conduct, and bound to serve the causes of law and good at all costs.  
-▶ An avenger, an instrument of divine wrath, anointed to mete justice to enemies of the church and punish all those who betray it.  
-▶ A liberator, a righteous revolutionary sworn to overthrow tyranny and free the oppressed.  
-▶ A knight of the Old Ways, champion of the green realm of nature, a defiant beacon of hope for those still practicing faiths that have fallen out of favor in the current age.  
-▶ A blackguard, a fallen paladin who has gone back on their sworn oaths and given themselves over to an evil cause or personal ambitions, granting them access to dark magic.  
+▶ A *cavalier*, a mounted knight errant dedicated to the quest, governed by a code of conduct, and bound to serve the causes of law and good at all costs.  
+▶ An *avenger*, an instrument of divine wrath, anointed to mete justice to enemies of the church and punish all those who betray it.  
+▶ A *liberator*, a righteous revolutionary sworn to overthrow tyranny and free the oppressed.  
+▶ A *knight of the Old Ways*, champion of the green realm of nature, a defiant beacon of hope for those still practicing faiths that have fallen out of favor in the current age.  
+▶ A *blackguard*, a fallen paladin who has gone back on their sworn oaths and given themselves over to an evil cause or personal ambitions, granting them access to dark magic.  
   
 ##### Paladin Quick Roles  
   
@@ -1781,17 +1780,17 @@ The paladin is a legendary “knight in shining armor,” a warrior who draws di
   
 ##### Typical Paladin Specialties  
   
-* Applied Theology  
-* Heavy Armor  
-* Heraldry  
-* Demonology  
-* Leadership  
-* Jousting  
-* Law  
-* Military History  
-* Undead Lore  
-* Equestrian  
-* Oration  
+* **Applied Theology**  
+* **Heavy Armor**  
+* **Heraldry**  
+* **Demonology**  
+* **Leadership**  
+* **Jousting**  
+* **Law**  
+* **Military History**  
+* **Undead Lore**  
+* **Equestrian**  
+* **Oration**  
   
 ##### Paladin Quick SFX  
   
@@ -1839,17 +1838,17 @@ The paladin is a legendary “knight in shining armor,” a warrior who draws di
 
 ***Protective Aura:*** When an ally within your reach rolls to avoid **Damaged** or a complication, you or they can spend a Ⓟ to add your **Charisma** die to their pool.  
 
-***Zealous Smite:*** Reveal why a person, group, or supernatural entity is an enemy of your faith, then earn a Ⓟ and gain the complication Fervor d6. When you roll to inflict stress on enemies of the faith, you may add your Fervor complication to your own pool. After the roll is resolved, your Fervor steps up.  
+***Zealous Smite:*** Reveal why a person, group, or supernatural entity is an enemy of your faith, then earn a Ⓟ and gain the complication **Fervor** d6. When you roll to inflict stress on enemies of the faith, you may add your **Fervor** complication to your own pool. After the roll is resolved, your **Fervor** steps up.  
   
 #### Ranger  
   
 Walking the edge of the wildest frontiers, rangers are warriors, hunters, and trackers who master a fierce array of weapons alongside the primal magic of nature. Common career paths your ranger might pursue include:  
 
-▶ A warden, an implacable defender of nature itself, devoted to the Old Ways and guided by primal spirits who grant the endurance of an ancient oak.  
-▶ A strider of the wilds, traveling in secret all across a large territory, seeking signs of ancient evils reemerging and fighting to keep them in check.  
-▶ A monster hunter, dedicated to protecting civilization’s frontiers against a particular kind of foe, whose ways they know in and out.  
-▶ A beastmaster with empathic connections to beasts of all kinds, assisted by one particularly devoted animal companion.  
-▶ A vigilante, patrolling urban areas as part of their territory and taking down the “civilized” predators who commit crimes against innocent folk.  
+▶ A *warden*, an implacable defender of nature itself, devoted to the Old Ways and guided by primal spirits who grant the endurance of an ancient oak.  
+▶ A *strider of the wilds*, traveling in secret all across a large territory, seeking signs of ancient evils reemerging and fighting to keep them in check.  
+▶ A *monster hunter*, dedicated to protecting civilization’s frontiers against a particular kind of foe, whose ways they know in and out.  
+▶ A *beastmaster* with empathic connections to beasts of all kinds, assisted by one particularly devoted animal companion.  
+▶ A *vigilante*, patrolling urban areas as part of their territory and taking down the “civilized” predators who commit crimes against innocent folk.  
   
 ##### Ranger Quick Roles  
   
@@ -1857,26 +1856,26 @@ Walking the edge of the wildest frontiers, rangers are warriors, hunters, and tr
   
 ##### Typical Ranger Specialties  
   
-* Archery  
-* Tracking  
-* Animal Handling  
-* Camouflage  
-* Herblore  
-* Hunting  
-* Wildlife  
-* Survival  
-* Climbing  
-* Stealth  
-* Cooking  
-* Earth Magic  
-* Trick Shot  
-* Equestrian  
+* **Archery**  
+* **Tracking**  
+* **Animal Handling**  
+* **Camouflage**  
+* **Herblore**  
+* **Hunting**  
+* **Wildlife**  
+* **Survival**  
+* **Climbing**  
+* **Stealth**  
+* **Cooking**  
+* **Earth Magic**  
+* **Trick Shot**  
+* **Equestrian**  
   
 ##### Ranger Quick SFX  
   
 ***Pathwarden Magic:*** Take **Exhausted** d6 to step up **Scout** when rolling to influence or enhance plants or animals, or to use weather-related magic. If your roll succeeds, step up your effect die.  
 
-***Quarry:*** Spend a Ⓟ to designate a target as your quarry and gain the asset Focused on My Quarry d8.  
+***Quarry:*** Spend a Ⓟ to designate a target as your quarry and gain the asset **Focused on My Quarry** d8.  
 
 ##### Typical Ranger Limits  
 
@@ -1900,7 +1899,7 @@ Walking the edge of the wildest frontiers, rangers are warriors, hunters, and tr
 
 ***Hiding in Plain Sight:*** Spend a Ⓟ to create a d8 asset related to camouflage. While holding still, step up this asset in any roll to avoid notice.  
 
-***Master Tracker:*** When you roll to inflict the complication Being Tracked or to create an asset related to tracking your quarry, add d8 and step up your effect die.  
+***Master Tracker:*** When you roll to inflict the complication **Being Tracked** or to create an asset related to tracking your quarry, add d8 and step up your effect die.  
 
 ***Natural Explorer:*** While in the wilderness, if your roll during your turn includes **Scout**, step up the smallest die in your pool.  
 
@@ -1930,11 +1929,11 @@ Walking the edge of the wildest frontiers, rangers are warriors, hunters, and tr
   
 Leveraging advanced skills and cunning tricks to gain the upper hand even in dire straits, a rogue is a stealthy opportunist who makes their own luck. Common career paths your rogue might pursue include:  
 
-▶ A thief, a specialist in robberies and heists who excels at circumventing security to get into places where they’re not supposed to be.  
-▶ A swashbuckler, a devil-may-care rebel who unerringly finds trouble and relies on quickness, audacity, swordplay, and panache to get out of it.  
-▶ An assassin, a deadly spy or hired killer who employs deception, poison, and stealth to dispatch their targets.  
-▶ An outlaw, ambushing travelers along highways or on the high seas, reappropriating corrupt wealth and (possibly) giving it to those more deserving.  
-▶ An eldritch grifter, an adventurous deceiver skilled at overcoming sorcerous challenges, supplementing their well-honed trickery with arcane spells.  
+▶ A *thief*, a specialist in robberies and heists who excels at circumventing security to get into places where they’re not supposed to be.  
+▶ A *swashbuckler*, a devil-may-care rebel who unerringly finds trouble and relies on quickness, audacity, swordplay, and panache to get out of it.  
+▶ An *assassin*, a deadly spy or hired killer who employs deception, poison, and stealth to dispatch their targets.  
+▶ An *outlaw*, ambushing travelers along highways or on the high seas, reappropriating corrupt wealth and (possibly) giving it to those more deserving.  
+▶ An *eldritch grifter*, an adventurous deceiver skilled at overcoming sorcerous challenges, supplementing their well-honed trickery with arcane spells.  
   
 ##### Rogue Quick Roles  
   
@@ -1942,23 +1941,23 @@ Leveraging advanced skills and cunning tricks to gain the upper hand even in dir
   
 ##### Typical Rogue Specialties  
   
-* Sneaking  
-* Traps  
-* Thieves’ Tools  
-* Pickpocket  
-* Climbing  
-* Appraisal  
-* Deceit  
-* Concealing  
-* Weapons  
-* Short Blades  
-* Escape Artist  
-* Haggling  
-* Reading People  
-* Forgery  
-* Arcane  
-* Secrets  
-* Flirting  
+* **Sneaking**  
+* **Traps**  
+* **Thieves’ Tools**  
+* **Pickpocket**  
+* **Climbing**  
+* **Appraisal**  
+* **Deceit**  
+* **Concealing**  
+* **Weapons**  
+* **Short Blades**  
+* **Escape Artist**  
+* **Haggling**  
+* **Reading People**  
+* **Forgery**  
+* **Arcane**  
+* **Secrets**  
+* **Flirting**  
   
 ##### Rogue Quick SFX  
   
@@ -1988,7 +1987,7 @@ Leveraging advanced skills and cunning tricks to gain the upper hand even in dir
 
 ***Cunning Gambit:*** When your roll to inflict stress includes an asset related to deception or stealth, spend a Ⓟ to double **Scoundrel** for that roll and step up your effect die.  
 
-***Dirty Fighter:*** Immediately before or after rolling against a foe, spend a Ⓟ to stoop to dishonorable tactics and inflict a d6 complication like Sand in Eyes or Sucker Punch on that opponent.  
+***Dirty Fighter:*** Immediately before or after rolling against a foe, spend a Ⓟ to stoop to dishonorable tactics and inflict a d6 complication like **Sand in Eyes **or **Sucker Punch** on that opponent.  
 
 ***Elusive Dodge:*** Step up **Scoundrel** or **Scout** on your roll to avoid a complication or stress that affects an entire area.  
 
@@ -2000,7 +1999,7 @@ Leveraging advanced skills and cunning tricks to gain the upper hand even in dir
 
 ***Exploit Weakness:*** Spend a Ⓟ to double your target’s stress die in your roll to inflict stress on them.  
 
-***Fence:*** When you reveal that you’ve found a buyer for stolen goods or a seller of necessary (but probably stolen) goods, gain them as a d8 asset as well as the complication Disreputable d6.  
+***Fence:*** When you reveal that you’ve found a buyer for stolen goods or a seller of necessary (but probably stolen) goods, gain them as a d8 asset as well as the complication **Disreputable** d6.  
 
 ***First Strike:*** When you roll to inflict stress on a foe, if it’s the first time you’ve rolled to inflict stress on that foe this scene, step up your effect die.  
 
@@ -2203,7 +2202,7 @@ All the Limits that explicitly require a player reveal are marked with an asteri
 
 ***Distrust of Cities (Limit):*** When in a large settlement or other bastion of "civilized" ways, take a related d6 complication or **Demoralized**  d6 to earn a Ⓟ.  
 
-***Draconic Reverence (Limit):*** When you pursue a lead on the location of a dragon, take orders from a dragon, or reveal that any detail of the game is connected to dragons, gain the complication Fervor d6 to earn a Ⓟ.  
+***Draconic Reverence (Limit):*** When you pursue a lead on the location of a dragon, take orders from a dragon, or reveal that any detail of the game is connected to dragons, gain the complication **Fervor**  d6 to earn a Ⓟ.  
 
 ***Eager for Attention (Limit):*** When you perform for an audience or show off in front of strangers, take **Enthralled** d6 to earn a Ⓟ.  
 
@@ -2781,7 +2780,7 @@ The best way to crack this chestnut is play. Throw a d6 d6 d6 d6 d6 mob at the p
 
 Here are a couple additional SFX that are well-suited for challenge pools:  
 
-***Fear Monger:*** When you roll to inflict **Demoralized** , spend a Ⓟ to affect multiple targets. For each additional target, add d6 and keep an extra effect die.  
+***Fear Monger:*** When you roll to inflict **Demoralized**, spend a Ⓟ to affect multiple targets. For each additional target, add d6 and keep an extra effect die.  
 
 ***Overwhelming Tenacity:*** When you roll to inflict **Exhausted**, spend a Ⓟ to affect multiple targets. For each additional target, add d6 and keep an extra effect die.  
 
@@ -3171,7 +3170,7 @@ Boss Dice: d8 d8 d8 d8
 
 ***Sweeping Strike:*** When you take out a foe within reach using **Damaged**, you can keep a second effect die as **Damaged** against another foe within reach.  
 
-***Iron Fortitude (Ogre):*** On a roll to resist **Damaged**, **Demoralized** , or **Exhausted**, spend a Ⓟ to step up **Brawn** and step up your effect die.  
+***Iron Fortitude (Ogre):*** On a roll to resist **Damaged**, **Demoralized**, or **Exhausted**, spend a Ⓟ to step up **Brawn** and step up your effect die.  
   
 #### Sahuagin War Party  
   
@@ -3241,7 +3240,7 @@ Boss Dice: d8 d8 d8 d8
 
 ***Frightful Presence:*** When you succeed on a roll to inflict stress or a complication, spend a Ⓟ to inflict **Demoralized**  d8 on the same foe.  
 
-***Greater Fire Breath:*** When you use your All-Out Attack SFX, add d10 for each additional target instead of a d6, then shut down this SFX. Step down your **Resilience** asset to recover.  
+***Greater Fire Breath:*** When you use your All-Out Attack SFX, add d10 for each additional target instead of a d6, then shut down this SFX. Step down your **Resilience** to recover.  
 
 ***Legendary Resistance:*** Step down **Resilience** in lieu of spending a plot point or to ignore an incoming complication or stress. Recover **Resilience** at the beginning of a new scene  
   
@@ -3269,11 +3268,11 @@ Boss Dice: d8 d8 d8 d8
 
 ***Immunities:*** When a roll would inflict stress or a complication on you from cold, step down that roll’s effect die against you. You can also spend a Ⓟ to ignore the stress or complication entirely.  
 
-***Legendary Resistance:*** Step down **Legendary Resistance** in lieu of spending a plot point or to ignore an incoming complication or stress. Recover **Legendary Resistance** at the beginning of a new scene  
+***Legendary Resistance:*** Step down **Resilience** in lieu of spending a plot point or to ignore an incoming complication or stress. Recover **Resilience** at the beginning of a new scene  
 
 ***Frightful Presence:*** When you succeed on a roll to inflict stress or a complication, spend a Ⓟ to inflict **Demoralized**  d8 on the same foe.  
 
-***Greater Cold Breath:*** When you use your All-Out Attack SFX, add d10 for each additional target instead of a d6, then shut down this SFX. Step down your **Legendary Resistanc**e asset to recover.  
+***Greater Cold Breath:*** When you use your All-Out Attack SFX, add d10 for each additional target instead of a d6, then shut down this SFX. Step down your **Resilience** to recover.  
   
 #### Tunnel Lookouts (Kobolds)  
   
@@ -3340,7 +3339,7 @@ Boss Dice: d8 d8 d8 d8
 
 ***All-Out Attack:*** Spend a Ⓟ to target multiple opponents when you roll to inflict **Damaged**. For each additional target, add a d6 and keep an extra effect die.  
 
-***Acid Breath:*** When you use your All-Out Attack SFX, add d8 for each additional target instead of a d6 and choose **Damaged**, then shut down this SFX. Step down your **Legendary Resistance** asset to recover.  
+***Acid Breath:*** When you use your All-Out Attack SFX, add d8 for each additional target instead of a d6 and choose **Damaged**, then shut down this SFX. Step down your **Resilience** asset to recover.  
   
 #### Zombie Swarm  
   
@@ -3692,47 +3691,47 @@ Zones introduce positioning and more tactical elements to your game. They bridge
 
 Zones abstract out precise positioning of characters and objects but still provide structure, dividing a scene into distinct areas to hang exciting mechanics.  
 
-This zone map shows four distinct zones for an outdoor adventure scene. The zones are used to designate the general location of characters in the scene, and have a die rating that can be used to interact with it.  
+For example, the GM might create a scene with four distinct zones for an outdoor adventure. The zones are used to designate the general location of characters in the scene, and have a die rating that can be used to interact with it.  
   
 ##### Dice & Labels  
   
 Assigning die ratings to labels is the heart of using zones. The first step is to imagine or sketch out the scene and divide it into two or more areas of varying size. Look for parts of the scene with natural boundaries or transition points that can create possibilities for drama or action. Then write descriptive labels for each and assign a die rating—the larger the rating, the more impact it can have.  
 
-In our example scene, the four zones are obvious: the Rope Bridge, Mist-Filled Chasm, and on either side the Narrow Trail and Rugged Trail. The chasm looms pretty big within the scene with its d12, while the rope bridge and trail zones on either side have d8 each.  
+Using our example, the scene might have four obvious zones: the **Rope Bridge**, **Mist-Filled Chasm**, and on either side the **Narrow Trail** and **Rugged Trail**. The chasm looms pretty big within the scene with its d12, while the rope bridge and trail zones on either side have d8 each.  
   
 ##### Zone Distinctions  
   
 Use zones as scene distinctions—they even come with the ***Hinder*** SFX. Any character within the scene can use a zone's distinction.  
 
-Holding off some bad guys on the Narrow Trail while your friends escape across the Rope Bridge can add its d8 to your pool instead of one of your distinctions. When scuffling with bad guys on the Rugged Trail, you could ***Hinder*** the distinction and describe how it’s difficult to keep your footing. Rope Bridge can likewise be a help or a hindrance depending on how the character is using it.  
+Holding off some bad guys on the **Narrow Trail** while your friends escape across the **Rope Bridge** can add its d8 to your pool instead of one of your distinctions. When scuffling with bad guys on the **Rugged Trail**, you could ***Hinder*** the distinction and describe how it’s difficult to keep your footing. **Rope Bridge** can likewise be a help or a hindrance depending on how the character is using it.  
   
 ##### Zone Complications  
   
 Some zones don't contain good things. These are zone complications, from flames to toxic gas to a hail of arrows. Like zone distinctions, a clever character can add a zone complication die against another character.  
 
-The Mist-Filled Chasm gets a Hazard complication. Getting knocked or thrown into this zone is dangerous and getting taken out may leave you lost in the mists.  
+The **Mist-Filled Chasm** gets a **Hazard** complication. Getting knocked or thrown into this zone is dangerous and getting taken out may leave you lost in the mists.  
   
 ##### Zone Traits  
   
 Sometimes a zone has a trait that allows it to do something on its own without a character having to act on it. This is neither a complication nor a distinction, so the other characters can’t use the trait directly.  
 
-We can give the Rope Bridge a trait called Sway rated at d10. The GM can call for a test, rolling Sway d10 in the pool, with failure earning a PC an Off-Balance or Queasy complication.  
+We can give the **Rope Bridge** a trait called **Sway** rated at d10. The GM can call for a test, rolling **Sway** d10 in the pool, with failure earning a PC an **Off-Balance** or **Queasy** complication.  
   
 ##### Zone SFX  
   
 Spice up zones by giving them SFX. These can let zones interact.  
 
-Let’s give the Mist-Filled Chasm a Gust of Wind SFX that lets the GM spend a Ⓟ or step down the chasm’s Hazard to step up the bridge’s Sway. The wind might clear away a little mist, but makes the swaying a formidable d12!  
+Let’s give the **Mist-Filled Chasm** a ***Gust of Wind*** SFX that lets the GM spend a Ⓟ or step down the chasm’s Hazard to step up the bridge’s **Sway**. The wind might clear away a little mist, but makes the swaying a formidable d12!  
   
 ##### Targeting Zones  
   
 Zones can be acted upon directly. This may attempt to step down or remove a zone complication or add a new one.  
 
-A character might make a test and target the Rope Bridge to create a new Broken Planks zone complication, discouraging pursuit.  
+A character might make a test and target the **Rope Bridge** to create a new Broken Planks zone complication, discouraging pursuit.  
   
 ##### Movement & Range  
   
-Characters can usually move freely anywhere within a zone or move to an adjacent zone on their turn. Some zones can be a barrier or bottleneck, like the Mist-Filled Chasm funnelling into the bridge.  
+Characters can usually move freely anywhere within a zone or move to an adjacent zone on their turn. Some zones can be a barrier or bottleneck, like the **Mist-Filled Chasm** funnelling into the bridge.  
 
 An obstacle within one or more of these zones may make a test necessary to move zones. A particularly large zone might have a complication named something like Great Distance; characters must remove that complication to reach the far side of the zone.  
 
@@ -3748,7 +3747,7 @@ While different approaches will be discussed, in the end, GM preparation happens
   
 The most elaborate preparations provide many things, but central to those offerings are locations and challenges. They also often have a map, because maps are cool. Published adventures usually fall in this first category— whether those adventures are intended for *TorchLite* or whether you are adapting a scenario from another fantasy tabletop RPG.  
 
-At this level of preparation, each location is described, , along with guidelines for how to run one or more scenes there. In many published adventures, there is special narrative text (often formatted with a box around it) that the GM can paraphrase or read aloud to the players to provide a vivid explanation of what their characters perceive. Locations may have scene or zone distinctions to make things interesting and list the challenges that can be confronted there.  
+At this level of preparation, each location is described,, along with guidelines for how to run one or more scenes there. In many published adventures, there is special narrative text (often formatted with a box around it) that the GM can paraphrase or read aloud to the players to provide a vivid explanation of what their characters perceive. Locations may have scene or zone distinctions to make things interesting and list the challenges that can be confronted there.  
 
 The challenges are presented as complete trait blocks, often with juicy signature assets and SFX, and may include notes for adjusting their difficulties.  
 
@@ -4502,7 +4501,7 @@ Once you give in, you are not without options. You may start a new upset to unde
   
 #### Contesting an Upset  
   
-While a looming upset is in play, players may use their turn to contest the upset , trying to stop the in-progress change from happening. You may only contest an upset if your character may plausibly take action to stop the impending change.  
+While a looming upset is in play, players may use their turn to contest the upset, trying to stop the in-progress change from happening. You may only contest an upset if your character may plausibly take action to stop the impending change.  
 
 You may try to stop the situation from changing entirely, or you may try to change the situation in a new direction (which is more fun, honestly).  
 
