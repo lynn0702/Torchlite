@@ -28,7 +28,7 @@ Or if you kind of already know that you’re going to be running the game, come 
 
 Whatever you do, have fun—and always check for traps.  
   
-*TorchLite* evolved from *Cortex Lite*, a simple roleplaying game compatible with the Cortex Prime roleplaying game. *Cortex Lite* is available for free at <http://lite.xine.ink>.  
+*TorchLite* evolved from *Cortex Lite*, a simple roleplaying game compatible with the Cortex Prime roleplaying game. *Cortex Lite* is available for free on [itch.io](http://lite.xine.ink).  
   
 ### Your World  
   
@@ -80,7 +80,7 @@ Most inhabitants of other planes are aloof, uninterested in affairs beyond their
   
 ### How to Play *TorchLite*  
   
-This section remixes the player-facing rules from *Cortex Lite*. You can grab that complete game for free at <http://lite.xine.ink>. If you want to jump to the fancy new *TorchLite* stuff, that’s in [Fantastic Adventurers](#fantastic-adventurers).  
+This section remixes the player-facing rules from *Cortex Lite*. You can grab that complete game for free on [itch.io](http://lite.xine.ink). If you want to jump to the fancy new *TorchLite* stuff, that’s in [Fantastic Adventurers](#fantastic-adventurers).  
   
 #### PCs & GM  
   
@@ -2800,7 +2800,7 @@ The following pages present sample monstrous creatures for *TorchLite* games. Th
 
 A few of these GMC templates are presented as members of a certain people. Their people is noted in parentheses and they have a matching people SFX. You can make a GMC from a different people by simply replacing that SFX with one from another people.  
 
-Many of these templates first appeared in the Manual of Monsters, Minions, and Mountebanks, which can be found at <https://ljrstudiosouth.itch.io/monsters>.  
+Many of these templates first appeared in the Manual of Monsters, Minions, and Mountebanks, which can be found on [itch.io](https://ljrstudiosouth.itch.io/monsters).  
   
 #### Aboleth  
   
@@ -3893,7 +3893,7 @@ You can think of [zones](#zones) as blocks, too, especially since they can be sw
   
 ### The Five Scene Adventure  
   
-A five scene adventure is a prepared adventure format composed of five prepared scenes designed to tell a complete story. This adventure structure is as old as tabletop RPGs, and has been codified by Johnn Four as the Five Room Dungeon methodology (<https://www.roleplayingtips.com>). What follows is a riff on this classic structure, optimized for *TorchLite*.  
+A five scene adventure is a prepared adventure format composed of five prepared scenes designed to tell a complete story. This adventure structure is as old as tabletop RPGs, and has been codified by Johnn Four as the [Five Room Dungeon methodology](https://www.roleplayingtips.com). What follows is a riff on this classic structure, optimized for *TorchLite*.  
 
 These are the five scenes you will prepare ahead of time:  
 
@@ -4563,7 +4563,7 @@ You can even create brand new peoples or professions with exclusive access to so
 
 The *Arcanist’s Toolkit* isn’t intended to be used all at the same time – all seven mods in one game would be absolute chaos! But by using the existing framework provided to you by *TorchLite*, you can personalize evocative systems of magic that your players will love.  
 
-Find The *Arcanist’s Toolkit* at <https://rileyrouth.itch.io/the-arcanists-toolkit>  
+Find The *Arcanist’s Toolkit* on [itch.io](https://rileyrouth.itch.io/the-arcanists-toolkit)   
   
 #### Keystone Fantasy’s Bestiary and Emporium  
   
@@ -4573,7 +4573,7 @@ The *Bestiary of the Speaking Lands* details a simple method of combining a libr
 
 The *Emporium of the Speaking Lands* offers elaborate rules support for “cool stuff” that one might find in epic fantasy adventures. The rules cover everything from specialty weaponry to magical devices to singing swords. Most of this is performed by an eminently stealable library of more than 100 SFX, but the book also includes extended rules for crafts, loot, and wealth.  
 
-Visit <https://keystone.miriamrobern.com> for more.  
+Visit [Keystone](https://keystone.miriamrobern.com) for more.  
   
 #### Manual of Monsters, Minions & Mountebanks  
   
@@ -4581,7 +4581,7 @@ This compendium was designed directly for use with *TorchLite*. It takes the ove
 
 While the templates can be used right off the page, they can also be whittled down, substituted, or added to as befits your needs. They serve as direct conversion examples for taking 5e content and liting it up with your torch.  
 
-Available at <https://ljrstudiosouth.itch.io/monsters>  
+Available on [itch.io](https://ljrstudiosouth.itch.io/monsters)   
   
 #### Drintera  
   
@@ -4591,11 +4591,9 @@ As a system-agnostic setting, Drintera has no rules to weave into *TorchLite*. I
 
 Find more details, including back issues of the magazine, at  
 
-<https://shewstone.com/drintera>  
+[Drinterra](https://shewstone.com/drintera)  
 
-or check out their patreon:  
-
-<https://www.patreon.com/drintera/posts>  
+or check out their [patreon](https://www.patreon.com/drintera/posts)  
   
 ### Transferring Characters to Another Game  
   
@@ -4623,7 +4621,7 @@ For the GM, ToX introduces catalysts. These provocative GMCs wedge themselves in
 
 These elements come together to foster a more roleplay forward table experience than *TorchLite*’s more adventure centric design.  
 
-Visit <https://www.talesofxadia.com/> for more.  
+Visit [Tales of Xadia](https://www.talesofxadia.com/) for more.  
   
 #### Keystone Fantasy  
   
@@ -4633,7 +4631,7 @@ Keystone uses half as many attributes than *TorchLite*, but you can combine pair
 
 Instead of *TorchLite*’s five roles, Keystone uses 19 skills. Map each role to two skills. *TorchLite* specialties may map directly to skills or become new signature assets.  
 
-Visit <https://keystone.miriamrobern.com> for more.  
+Visit [Keystone](https://keystone.miriamrobern.com) for more.  
   
 ### Random Characters  
   
@@ -4715,8 +4713,8 @@ Find him on your favorite struggling social media platform @JeremyForbing.
   
 Lynn Jones pens collaborative world games and related content in the stolen hours when he isn't raising his two sons, day jobbing in corporate software, or spending time with his wife. He cut teeth on White Wolf games and enjoyed a 4th edition D&D stint before a decade of fantasy LARPing took him away from the table and into the woods. He's returning to his roots and exploring new and old indie games.  
 
-His website is <https://ljrstudiosouth.itch.io/>  
+His website is [ljrstudiosouth.itch.io](https://ljrstudiosouth.itch.io/)   
   
 Miriam Robern has been designing games for entirely too long and really should give it a rest. She enjoys games that tell stories, grapple with complex social conflicts, and prominently feature girls kissing. Miriam lives in Winnipeg with her wife and two kids and her wife and two kids’ two ridiculous dogs.  
 
-Her website is <http://miriamrobern.com>.  
+Her website is [miriamrobern.com](http://miriamrobern.com).  
