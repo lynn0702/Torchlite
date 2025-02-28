@@ -1,6 +1,7 @@
 # MMMM SFX
 
-by: Lynn Jones and Jeremy Forbing
+by: Lynn Jones and Jeremy Forbing  
+extracted from: [Manual of Monsters, Minions, and Mountbanks]("https://ljrstudiosouth.itch.io/monsters)
 
 **_Aberrant Ground:_** The ground around you is doughlike and difficult to move from. When a foe who is close enough to touch you fails a roll to inflict **Damaged** stress on you, spend a Ⓟ to inflict **d6** a movement restricting complication on that foe, in addition to any other consequence of failure.  
 
