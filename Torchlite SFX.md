@@ -503,7 +503,7 @@ extracted from: [Torchlite](https://xineink.itch.io/torchlite)
 
 ***Keep Calm and Carry On:*** When you roll to avoid **Demoralized** or **Enthralled**, add **d6** and step up your effect die.  
 
-***Killer Instinct:*** If a target already has ⑩ or larger stress when you roll to inflict **Damaged** on them, your roll scores a heroic success if you beat their roll by three or more. For every three by which you beat their roll, your effect die steps up one size.  
+***Killer Instinct:*** If a target already has **d10** or larger stress when you roll to inflict **Damaged** on them, your roll scores a heroic success if you beat their roll by three or more. For every three by which you beat their roll, your effect die steps up one size.  
 
 ***Kinbond:*** when you work alongside your kin, gain a **d8** asset to represent them and then step up **Enthralled**.  
 
