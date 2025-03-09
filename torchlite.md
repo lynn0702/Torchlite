@@ -595,7 +595,7 @@ Specialty Examples
 * **Lasso**  
 * **Leatherworking**  
 * **Lockpicks**  
-* **Martial Arts ** 
+* **Martial Arts** 
 * **Necromancy**  
 * **Persuasion**  
 * **Polearms**  
