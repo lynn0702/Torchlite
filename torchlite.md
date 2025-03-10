@@ -495,7 +495,7 @@ Every distinction benefits from the ***Hinder*** SFX, your character’s first S
 
 ***Hinder*** is best used in situations where a distinction would actually make things harder for the character instead of easier (such as a character raised underground trying to fight in bright direct sunlight), or when no distinction really applies to what you’re trying to do (“I’m a warrior, not a librarian!”). Since ***Hinder*** earns you a Ⓟ, which can be spent to include extra dice in your total, this allows you to accept a temporary disadvantage now in order to succeed more spectacularly later on.  
 
-Choosing your Distinctions  
+##### Choosing your Distinctions  
 
 Start making a character by picking three distinctions, one from each of the option categories listed below. Each of these options is described in detail in its own section, under [Peoples](#peoples), [Professions](#professions), or [Personas](#personas).  
 
@@ -775,7 +775,7 @@ Certain cambions resemble humanoid animals. There are also many descendants of t
 * **Leather Longcoat**  
 * **Unsigned Love Letter**  
 * **Brace of Daggers**  
-* **Worn Disguise kit**  
+* **Worn Disguise Kit**  
 * **Surly Black Cat**  
 * **Red-Stringed Fiddle**  
   
@@ -864,7 +864,7 @@ Among other peoples, dwarves have a reputation as implacable enemies and steadfa
 
 ***Tool Expert:*** When your roll to create an asset includes a tool-related specialty, add d6 and step up your effect die.  
 
-***Undaunted Resilience:*** When you activate an opportunity, instead of stepping down one stress or complication, you can choose to step down both your **Damaged** and your **Demoralized** .  
+***Undaunted Resilience:*** When you activate an opportunity, instead of stepping down one stress or complication, you can choose to step down both your **Damaged** and your **Demoralized**.  
 
 ***Work Ethic:*** When you take your time to do things right on a roll to create an asset, if you roll one or more hitches, you can take **Exhausted** d6 to reroll one or two dice that rolled hitches.  
   
@@ -1114,7 +1114,7 @@ Nearly every inhabited region or major city has at least few humans living in it
 
 ***Frustrated Fury:*** When you fail a roll to inflict or avoid stress, spend a Ⓟ to create a d8 asset related to rage, vengeance, or tenacity. If you end your turn without having rolled to inflict stress that turn, step down this asset.  
 
-***Plucky:*** When you face down terrible odds with personal courage, spend a Ⓟ to step down a complication or your **Demoralized** .  
+***Plucky:*** When you face down terrible odds with personal courage, spend a Ⓟ to step down a complication or your **Demoralized**.  
 
 ***Shieldwall Veteran (Gear):*** When an ally within reach succeeds on a roll to avoid stress from a foe who is also within reach, if you and the ally both have shields, spend a Ⓟ to inflict that ally’s effect die on the foe as a complication related to shoving or pushing that foe.  
 
@@ -1151,7 +1151,7 @@ The most populous ogre communities are those of the *orks*, whose war hordes can
   
 ##### Ogre Quick SFX  
   
-***Intimidating Demeanor:*** Spend a Ⓟ to double your role trait on a roll to inflict **Demoralized** . If the roll succeeds, step up your effect die.  
+***Intimidating Demeanor:*** Spend a Ⓟ to double your role trait on a roll to inflict **Demoralized**. If the roll succeeds, step up your effect die.  
   
 ##### Typical Ogre SFX  
   
@@ -1225,7 +1225,7 @@ In terms of personality, wyrmkin vary as much as any people, yet in every dracon
   
 ##### Typical Wyrmkin SFX  
   
-***Bloodied Fury:*** While your **Damaged** is d8 or larger, step up your smallest die on all rolls to inflict **Damaged** or **Demoralized** .  
+***Bloodied Fury:*** While your **Damaged** is d8 or larger, step up your smallest die on all rolls to inflict **Damaged** or **Demoralized**.  
 
 ***Draconic Breath:*** When you are not Winded, you can take a Winded d6 complication to breathe out an energy or element tied to your draconic heritage. When you use this beath to inflict **Damaged**, you can choose up to three nearby targets that are all within your reach or each other’s reach, keeping an extra effect die for each target beyond the first.  
 
@@ -1315,7 +1315,7 @@ Wielding skill and spell to support allies and befuddle foes, the bard inspires 
 
 ***Bard’s Valorous Spells:*** Double **Soldier** when rolling to create assets or inflict **Damaged** with magic. If the roll fails, the stress for failing is **Enthralled**; on a success, spend a Ⓟ or take **Exhausted** d6.  
 
-***Bolstering Word:*** When you succeed on a roll to avoid stress that includes **Speaker**, take **Exhausted** d6 to step down an ally’s **Damaged** or **Demoralized** .  
+***Bolstering Word:*** When you succeed on a roll to avoid stress that includes **Speaker**, take **Exhausted** d6 to step down an ally’s **Damaged** or **Demoralized**.  
 
 ***Clever Words:*** Spend a Ⓟ to add both **Speaker** and **Scholar** to your dice pool when trying to seem convincing, well-spoken, or impressive.  
 
@@ -1392,7 +1392,7 @@ Devotion to a higher power infuses clerics with sacred energies, making them mir
 
 ***Acolyte:*** While in or near a populated area, spend a Ⓟ to create a d8 asset who is a faithful layperson or aspirant priest called to follow you for a time.  
 
-***Blessed Orator:*** When you roll to preach to a crowd, spend a Ⓟ to add a d6 to your pool for every audience member beyond the first and then assign an effect die to each listener as an asset for them or as **Demoralized** .  
+***Blessed Orator:*** When you roll to preach to a crowd, spend a Ⓟ to add a d6 to your pool for every audience member beyond the first and then assign an effect die to each listener as an asset for them or as **Demoralized**.  
 
 ***Castigate:*** When you criticize another character for improper or unfaithful actions, you may spend a Ⓟ to step down your **Exhausted**.  
 
@@ -2354,7 +2354,7 @@ In addition to SFX associated with certain peoples and professions, players can 
 
 ***Position of Privilege:*** While in a populated settlement, spend a Ⓟ to create a d8 asset who is an attendant or guide, seeing to basic needs and logistics while you’re in the area.  
 
-***Reassuring Comrade:*** Step up or double **Speaker** in your dice pool when helping others recover **Demoralized** . You can also spend a Ⓟ to step down your own or a nearby character’s **Demoralized** .  
+***Reassuring Comrade:*** Step up or double **Speaker** in your dice pool when helping others recover **Demoralized**. You can also spend a Ⓟ to step down your own or a nearby character’s **Demoralized**.  
 
 ***Reckless Gambit:*** When you roll dice, add a die to your pool equal to the largest stress or complication anyone has in the scene. Take a complication at d6 if the roll succeeds, or d8 if it fails.  
 
@@ -2368,7 +2368,7 @@ In addition to SFX associated with certain peoples and professions, players can 
 
 ***Sudden Yet Inevitable:*** When someone betrays you or deceives you, or you betray or deceive someone, spend a Ⓟ to create a d8 asset related to having planned for it.  
 
-***Team Player:*** When you witness an ally rolling a heroic success, you can step down your own or another witness’s **Demoralized** .  
+***Team Player:*** When you witness an ally rolling a heroic success, you can step down your own or another witness’s **Demoralized**.  
 
 The Uses of Enchantment: Take **Exhausted** d6 to step up **Speaker** when rolling to influence others’ mental states with magic. If your roll succeeds, step up your effect die.  
 
