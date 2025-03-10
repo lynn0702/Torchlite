@@ -1987,7 +1987,7 @@ Leveraging advanced skills and cunning tricks to gain the upper hand even in dir
 
 ***Cunning Gambit:*** When your roll to inflict stress includes an asset related to deception or stealth, spend a Ⓟ to double **Scoundrel** for that roll and step up your effect die.  
 
-***Dirty Fighter:*** Immediately before or after rolling against a foe, spend a Ⓟ to stoop to dishonorable tactics and inflict a d6 complication like **Sand in Eyes **or **Sucker Punch** on that opponent.  
+***Dirty Fighter:*** Immediately before or after rolling against a foe, spend a Ⓟ to stoop to dishonorable tactics and inflict a d6 complication like **Sand in Eyes** or **Sucker Punched** on that opponent.  
 
 ***Elusive Dodge:*** Step up **Scoundrel** or **Scout** on your roll to avoid a complication or stress that affects an entire area.  
 
