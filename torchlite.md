@@ -3118,7 +3118,7 @@ Boss Dice: d8 d8 d8 d8 d8
 **Looks Like Something You Want** d10  
 **Sneaky Shapeshifting Predator** d10  
 
-***Amorphous:*** Spend a Ⓟ to move through an extremely tiny space.  
+***Slimy & Amorphous:*** When a roll would inflict stress or a complication on you from acid or from being shoved or knocked prone, step down that roll’s effect die against you. You can also spend a Ⓟ to ignore the stress or complication entirely.  
 
 ***Grab & Constrict:*** When you roll to inflict a complication related to grappling, add d6 and step up your effect die. If you succeed, keep a second effect die as **Damaged** against the same foe.  
   
