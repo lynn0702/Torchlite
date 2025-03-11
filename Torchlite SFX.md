@@ -413,7 +413,7 @@ extracted from: [Torchlite](https://xineink.itch.io/torchlite)
 
 ***Have a Little Faith:*** When you would take **Demoralized** stress, spend a Ⓟ to step down the stress you take. If this steps the stress down below **d6**, you take no stress at all.  
 
-***He’s Got Your Scent:*** When you activate a player hitch, instead of inflicting stress or complication, you may step up **Minotaur Guardian**. If **Minotaur Guardian** is at ⑫, the Challenge immediately takes its turn.  
+***He’s Got Your Scent:*** When you activate a player hitch, instead of inflicting stress or complication, you may step up **Minotaur Guardian**. If **Minotaur Guardian** is at dd12, the Challenge immediately takes its turn.  
 
 ***Head in the Clouds (Limit):*** When you are distracted by a torrent of information provided by your magic, research, or supernatural insights, take **Enthralled** **d6** to earn a Ⓟ.  
 
@@ -565,7 +565,7 @@ extracted from: [Torchlite](https://xineink.itch.io/torchlite)
 
 ***Misunderstood (Limit):*** When you feel the burden of others’ assumptions about you, take **Demoralized** **d6** or a **Mistrusted** **d6** complication to earn a Ⓟ.  
 
-***Mocking Simplicity:*** On its turn, the Mysterious Lock rolls to inflict **Demoralized** on a character confronting its challenge. If successful, it may freely spend additional effect dice to step up any of its own challenge dice smaller than ⑫.  
+***Mocking Simplicity:*** On its turn, the Mysterious Lock rolls to inflict **Demoralized** on a character confronting its challenge. If successful, it may freely spend additional effect dice to step up any of its own challenge dice smaller than d12.  
 
 ***Mountaineer:*** Double **Scout** or **Soldier** on a roll to climb, avoid a fall, move across treacherous terrain, or survive in high altitudes. If the roll succeeds, step up your effect die.  
 
@@ -715,7 +715,7 @@ extracted from: [Torchlite](https://xineink.itch.io/torchlite)
 
 ***Relatable Hero (Limit):*** When you are tempted to give into fear, desire, social pressure, or the instinct to acquire more power, take **Demoralized** **d6** or **Enthralled** **d6** to earn a Ⓟ.  
 
-***Relentless Fury:*** When your **Damaged** or **Exhausted** would step up past ⑫, you can instead keep it at ⑫, and you gain a ⑩ complication related to being berserk or **Enraged** (or step up a similar one).  
+***Relentless Fury:*** When your **Damaged** or **Exhausted** would step up past d12, you can instead keep it at d12, and you gain a ⑩ complication related to being berserk or **Enraged** (or step up a similar one).  
 
 ***Reliable Memory:*** Spend a Ⓟ to reroll a dice pool focused on memory or recall that included **Scholar**.  
 
@@ -825,7 +825,7 @@ extracted from: [Torchlite](https://xineink.itch.io/torchlite)
 
 ***Sudden Yet Inevitable:*** When someone betrays you or deceives you, or you betray or deceive someone, spend a Ⓟ to create a **d8** asset related to having planned for it.  
 
-***Suffocation, Super Suffocation:*** On any roll, assign an additional effect die one step larger than **Rising Water** to step up that asset. If it is already ⑫, inflict **Damaged** **d6** on all players, instead.  
+***Suffocation, Super Suffocation:*** On any roll, assign an additional effect die one step larger than **Rising Water** to step up that asset. If it is already d12, inflict **Damaged** **d6** on all players, instead.  
 
 ***Sunlight Sensitivity (Limit):*** While in sunlight, you hitch on ones and twos.  
 
@@ -919,7 +919,7 @@ extracted from: [Torchlite](https://xineink.itch.io/torchlite)
 
 ***Ungovernable Might:*** When you fail a roll related to physical strength or destroying objects, spend a Ⓟ to reroll all the dice.  
 
-***Unliving:*** When your **Damaged** or **Exhausted** would step up past ⑫, you can instead keep it at ⑫, and you take a ⑩ **Reanimating** complication.  
+***Unliving:*** When your **Damaged** or **Exhausted** would step up past d12, you can instead keep it at d12, and you take a ⑩ **Reanimating** complication.  
 
 ***Unobtrusive:*** Spend a Ⓟ to double your distinction on a roll while you are pretending to be a mundane animal.  
 
@@ -963,7 +963,7 @@ extracted from: [Torchlite](https://xineink.itch.io/torchlite)
 
 ***Ways of the Fey Realm:*** When you take **Enthralled** or take a complication from magic that would affect your mind, spend a Ⓟ to step down the stress or complication. Magic can never force you to sleep.  
 
-***We Lost Him:*** While the **Minotaur Guardian** is ⑫, players may roll a test to escape pursuit instead of removing a die from the Challenge pool. On a success, the **Minotaur Guardian** steps down to **d6**.  
+***We Lost Him:*** While the **Minotaur Guardian** is d12, players may roll a test to escape pursuit instead of removing a die from the Challenge pool. On a success, the **Minotaur Guardian** steps down to **d6**.  
 
 ***We’ve Got History (Limit):*** After a new GMC is introduced, you can earn a Ⓟ by revealing that the GMC was once your friend, ally, or lover, until you parted on very bad terms. You then take **Demoralized** **d6** or **Enthralled** **d6**.  
 
