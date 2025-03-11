@@ -3190,7 +3190,7 @@ Boss Dice: d8 d8 d8 d8
 
 ***All-Out Attack:*** Spend a Ⓟ to target multiple opponents when you roll to inflict **Damaged**. For each additional target, add a d6 and keep an extra effect die.  
 
-***Frenzy:*** When your roll during your turn includes both **Soldier** and an asset related to rage or vengeance, spend a Ⓟ to double that asset and step up your effect die.  
+***Blood Frenzy:*** When you include your foe’s **Damaged**, double it.  
 
 ***Underwater Adaptation:*** Spend a Ⓟ to gain the asset **Amphibious** d8. While you have this asset, you can breathe both air and water and swim as fast as you can walk.  
   
@@ -4260,7 +4260,7 @@ Having proven their worth the Town Council needs a capable escort aboard the Lad
 
 Deliver news of the events and convince the local lord to send a new Castellan and retinue to protect the Mirelands.  
   
-## Exploring Beyond the *TorchLite*  
+## Exploring Beyond the TorchLite  
   
 The best part about *TorchLite* is that you can add to it, extend it, patch it, twist it, and mold it into whatever shape you and your table like most. Here’s a number of options for modifying *TorchLite* to suit your tastes.  
   
