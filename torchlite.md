@@ -2372,7 +2372,7 @@ In addition to SFX associated with certain peoples and professions, players can 
 
 ***Team Player:*** When you witness an ally rolling a heroic success, you can step down your own or another witness’s **Demoralized**.  
 
-The Uses of Enchantment: Take **Exhausted** d6 to step up **Speaker** when rolling to influence others’ mental states with magic. If your roll succeeds, step up your effect die.  
+***The Uses of Enchantment:*** Take **Exhausted** d6 to step up **Speaker** when rolling to influence others’ mental states with magic. If your roll succeeds, step up your effect die.  
 
 ***Touché:*** When you acknowledge an opponent’s success against you, step down the complication their roll inflicts and take **Demoralized**  d6.  
 
