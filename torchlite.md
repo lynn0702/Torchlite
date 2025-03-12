@@ -2296,7 +2296,7 @@ In addition to SFX associated with certain peoples and professions, players can 
 
 ***Dual Wield (Gear):*** When you wield a weapon in each hand on a roll to inflict stress, step down the pool’s largest die to keep an extra effect die.  
 
-***Empathy:*** Step up **Speaker** on a roll to create an asset related to trust, reading people, or reassurance.  
+***Empathic Practice:*** Step up **Speaker** on a roll to create an asset related to trust, reading people, or reassurance.  
 
 ***Energetic:*** When you would take **Exhausted** stress, spend a Ⓟ to step down the stress you take. If this steps the stress down below d6, you take no stress at all.  
 
