@@ -645,7 +645,7 @@ If a snappy name is not springing to mind, use the table below. Roll d10 d8 d6 a
 |----| -------------| -----------| ----------|  
 |1|Patch-Covered|Burlap|Backpack|  
 |2 |Bloodied |Sailcloth |Bundle|  
-|3 |Brand New|Crococile Skin|Drawstring Pouch|  
+|3 |Brand New|Crocodile Skin|Drawstring Pouch|  
 |4 |Brightly Dyed|Leather|Pilgrim’s Bag|  
 |5 |Road-Worn|Rope Mesh|Rucksack|  
 |6 |Scripture-Inscribed|Thick Wool|Satchel|  
