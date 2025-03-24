@@ -649,8 +649,8 @@ If a snappy name is not springing to mind, use the table below. Roll d10 d8 d6 a
 |4 |Brightly Dyed|Leather|Pilgrim’s Bag|  
 |5 |Road-Worn|Rope Mesh|Rucksack|  
 |6 |Scripture-Inscribed|Thick Wool|Satchel|  
-|7 |Secondhand|Waxed|Cotton|  
-|8 |Sun-Bleached|Woven|Leaves|  
+|7 |Secondhand|Waxed Cotton||  
+|8 |Sun-Bleached|Woven Leaves||  
 |9 |Well-Maintained|||  
 |10|Wine-Stained|||  
   
