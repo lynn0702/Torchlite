@@ -927,7 +927,7 @@ Gnomes are cunning tricksters and clockwork inventors with magical talents for s
   
 ##### Gnome Quick Attributes  
   
-**Agility** d8 **Alertness** d6 **Brains** d10 **Brawn** d10 **Charisma** d10 **Composure** d10  
+**Agility** d8 **Alertness** d6 **Brains** d10 **Brawn** d6 **Charisma** d8 **Composure** d6  
   
 ##### Typical Gnome Assets  
   
